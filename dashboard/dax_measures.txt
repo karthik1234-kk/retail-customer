@@ -1,0 +1,116 @@
+// ==============================================================================
+// Retail Customer 360 Performance Dashboard - Power BI DAX Measures Reference
+// Author: Senior Data Engineer & Analyst
+// Target Tables: sales_summary, customers_cleaned, customer_segments
+// ==============================================================================
+
+// ------------------------------------------------------------------------------
+// SECTION 1: CORE FINANCIAL & SALES KPIS
+// ------------------------------------------------------------------------------
+
+// 1. Total Revenue
+Total Revenue = 
+SUM(sales_summary[total_amount])
+
+// 2. Total Cost of Goods Sold (COGS)
+Total Cost = 
+SUM(sales_summary[total_cost])
+
+// 3. Gross Profit
+Total Profit = 
+[Total Revenue] - [Total Cost]
+
+// 4. Gross Profit Margin Percentage
+Profit Margin % = 
+DIVIDE([Total Profit], [Total Revenue], 0)
+
+// 5. Total Units Sold
+Total Units Sold = 
+SUM(sales_summary[quantity])
+
+// 6. Total Completed Orders
+Total Orders = 
+DISTINCTCOUNT(sales_summary[order_id])
+
+// 7. Average Order Value (AOV)
+Average Order Value = 
+DIVIDE([Total Revenue], [Total Orders], 0)
+
+// 8. Units Per Transaction (UPT)
+Units Per Order = 
+DIVIDE([Total Units Sold], [Total Orders], 0)
+
+
+// ------------------------------------------------------------------------------
+// SECTION 2: CUSTOMER DEMOGRAPHIC & RETENTION METRICS
+// ------------------------------------------------------------------------------
+
+// 9. Total Unique Customers
+Total Customers = 
+DISTINCTCOUNT(customers_cleaned[customer_id])
+
+// 10. Repeat Customers (Customers with > 1 order)
+Repeat Customers = 
+CALCULATE(
+    DISTINCTCOUNT(sales_summary[customer_id]),
+    FILTER(
+        VALUES(sales_summary[customer_id]),
+        CALCULATE(DISTINCTCOUNT(sales_summary[order_id])) > 1
+    )
+)
+
+// 11. Repeat Purchase Rate (%)
+Repeat Customer Rate % = 
+DIVIDE([Repeat Customers], [Total Customers], 0)
+
+// 12. One-Time Shoppers
+One Time Customers = 
+[Total Customers] - [Repeat Customers]
+
+
+// ------------------------------------------------------------------------------
+// SECTION 3: RFM & VALUE SEGMENTATION MEASURES
+// ------------------------------------------------------------------------------
+
+// 13. High Value Revenue Share (%)
+High Value Revenue Share % = 
+VAR HighValRevenue = 
+    CALCULATE(
+        [Total Revenue],
+        FILTER(
+            customer_segments,
+            customer_segments[customer_segment] = "High Value"
+        )
+    )
+RETURN
+    DIVIDE(HighValRevenue, [Total Revenue], 0)
+
+// 14. Average Customer Lifetime Value (CLV)
+Average CLV = 
+AVERAGE(customer_segments[clv])
+
+// 15. Average Recency in Days
+Average Recency Days = 
+AVERAGE(customer_segments[recency_days])
+
+
+// ------------------------------------------------------------------------------
+// SECTION 4: TIME INTELLIGENCE & GROWTH MEASURES
+// ------------------------------------------------------------------------------
+
+// 16. Previous Month Revenue
+Revenue Prior Month = 
+CALCULATE(
+    [Total Revenue],
+    DATEADD(sales_summary[order_date], -1, MONTH)
+)
+
+// 17. Month-over-Month (MoM) Revenue Growth %
+MoM Revenue Growth % = 
+VAR PriorRevenue = [Revenue Prior Month]
+RETURN
+    IF(
+        ISBLANK(PriorRevenue) || PriorRevenue == 0,
+        BLANK(),
+        DIVIDE([Total Revenue] - PriorRevenue, PriorRevenue, 0)
+    )

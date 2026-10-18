@@ -1,0 +1,41 @@
+product_id,product_name,category,price,cost
+1,Wireless Noise-Canceling Headphones,Electronics,149.99,65.0
+2,Smartwatch Series 8,Electronics,299.99,130.0
+3,Bluetooth Portable Speaker,Electronics,59.99,24.0
+4,Ultra HD 4K Webcam,Electronics,89.99,38.0
+5,Mechanical Gaming Keyboard,Electronics,119.99,50.0
+6,Wireless Ergonomic Mouse,Electronics,45.99,18.0
+7,Fast Charging Power Bank 20000mAh,Electronics,39.99,15.0
+8,USB-C Multiport Adapter Hub,Electronics,34.99,12.0
+9,Classic Slim-Fit Denim Jeans,Fashion,54.99,20.0
+10,Organic Cotton Crewneck T-Shirt,Fashion,24.99,8.0
+11,Water-Resistant Windbreaker Jacket,Fashion,89.99,35.0
+12,Breathable Running Shoes,Fashion,95.0,38.0
+13,Polarized Aviator Sunglasses,Fashion,69.99,22.0
+14,Leather Bifold Minimalist Wallet,Fashion,39.99,14.0
+15,Cashmere Blend Winter Scarf,Fashion,49.99,18.0
+16,Canvas Everyday Backpack,Fashion,59.99,22.0
+17,Stainless Steel Electric Kettle,Home & Kitchen,44.99,18.0
+18,Non-Stick Ceramic Frying Pan,Home & Kitchen,39.99,16.0
+19,Espresso & Cappuccino Maker,Home & Kitchen,189.99,85.0
+20,Digital Air Fryer 5.8 Quart,Home & Kitchen,119.99,52.0
+21,Aromatherapy Essential Oil Diffuser,Home & Kitchen,29.99,11.0
+22,Memory Foam Ergonomic Pillow,Home & Kitchen,49.99,19.0
+23,Reusable Glass Food Containers (5-Pack),Home & Kitchen,34.99,13.0
+24,Robot Vacuum Cleaner,Home & Kitchen,249.99,110.0
+25,Vitamin C Brightening Facial Serum,Beauty & Health,28.99,9.0
+26,Hydrating Daily Face Moisturizer,Beauty & Health,22.99,7.5
+27,Ionic Hair Dryer with Diffuser,Beauty & Health,79.99,32.0
+28,Electric Sonic Toothbrush,Beauty & Health,59.99,23.0
+29,Organic Argan Hair Repair Oil,Beauty & Health,24.99,8.0
+30,Mineral Sunscreen SPF 50,Beauty & Health,19.99,6.0
+31,Deep Tissue Percussion Massage Gun,Beauty & Health,99.99,42.0
+32,Aroma Bath Salts & Spa Gift Set,Beauty & Health,32.99,11.0
+33,High-Density Eco-Friendly Yoga Mat,Sports & Outdoors,38.99,14.0
+34,Insulated Stainless Steel Water Bottle 32oz,Sports & Outdoors,29.99,10.0
+35,Adjustable Dumbbells Set (pair),Sports & Outdoors,159.99,70.0
+36,Resistance Exercise Bands (Set of 5),Sports & Outdoors,19.99,6.0
+37,Camping Hammock with Tree Straps,Sports & Outdoors,35.99,13.0
+38,Trekking Backpack 40L Waterproof,Sports & Outdoors,79.99,31.0
+39,Bicycle LED Headlight and Taillight Set,Sports & Outdoors,27.99,9.5
+40,Fitness Jump Rope with Ball Bearings,Sports & Outdoors,14.99,4.5

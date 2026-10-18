@@ -1,0 +1,284 @@
+customer_id,name,age,age_group,gender,location,recency_days,frequency,monetary_value,monetary_profit,r_score,f_score,m_score,rfm_code,rfm_weighted_score,customer_segment,rfm_persona,average_order_value,clv
+1,Sneha Verma,47,46-55,Male,Pune,22,9,1440.79,874.29,5,4,5,545,4.7,High Value,Champions,160.09,2622.91
+2,Rahul Clark,25,18-25,Male,Mumbai,44,7,953.88,571.88,4,4,4,444,4.0,High Value,Champions,136.27,1715.66
+3,Ananya Garcia,31,26-35,Female,Kolkata,89,10,805.83,503.83,3,5,4,354,4.1,High Value,Loyal Customers,80.58,1511.43
+4,David Jackson,30,26-35,Female,Mumbai,57,8,892.86,535.86,4,4,4,444,4.0,High Value,Champions,111.61,1607.62
+5,James Martin,33,26-35,Male,Chicago,14,14,1637.74,1023.74,5,5,5,555,5.0,High Value,Champions,116.98,3071.18
+6,Rahul Nair,34,26-35,Male,San Francisco,19,18,3565.61,2075.61,5,5,5,555,5.0,High Value,Champions,198.09,6226.85
+7,Rajesh Rodriguez,50,46-55,Female,Hyderabad,9,15,1412.76,852.76,5,5,5,555,5.0,High Value,Champions,94.18,2558.17
+8,Mateo Nair,40,36-45,Female,San Francisco,1,13,1775.79,1044.79,5,5,5,555,5.0,High Value,Champions,136.6,3134.39
+9,Michael Jones,45,36-45,Male,Ahmedabad,10,11,1015.86,620.86,5,5,4,554,4.5,High Value,Champions,92.35,1862.56
+10,Ethan Nair,53,46-55,Female,London,51,19,3314.67,1937.67,4,5,5,455,4.8,High Value,Champions,174.46,5813.13
+11,Mia Perez,43,36-45,Male,San Francisco,35,12,990.78,624.28,4,5,4,454,4.3,High Value,Champions,82.56,1872.73
+12,Daniel Garcia,44,36-45,Female,Unknown,68,11,1098.85,653.35,3,5,5,355,4.6,High Value,Loyal Customers,99.9,1960.14
+13,Rajesh Williams,39,36-45,Male,Sydney,21,15,1860.71,1147.71,5,5,5,555,5.0,High Value,Champions,124.05,3443.2
+14,Mateo Martinez,65,56+,Female,Ahmedabad,47,17,1360.74,838.24,4,5,5,455,4.8,High Value,Champions,80.04,2514.61
+15,Alexander Mehta,30,26-35,Male,Chicago,1,9,1121.85,670.85,5,4,5,545,4.7,High Value,Champions,124.65,2012.55
+16,Camila Martinez,24,18-25,Female,Chicago,22,10,1142.8,701.8,5,5,5,555,5.0,High Value,Champions,114.28,2105.4
+17,Olivia White,35,26-35,Female,Sydney,8,13,1828.8,1093.8,5,5,5,555,5.0,High Value,Champions,140.68,3281.47
+18,Kavya Rodriguez,28,26-35,Female,New York,50,9,839.88,500.88,4,4,4,444,4.0,High Value,Champions,93.32,1502.64
+19,Emily Martin,55,46-55,Male,Ahmedabad,12,13,1945.78,1139.78,5,5,5,555,5.0,High Value,Champions,149.68,3419.45
+20,Arjun Harris,38,36-45,Female,Hyderabad,61,9,868.83,531.83,3,4,4,344,3.8,High Value,Loyal Customers,96.54,1595.55
+21,Kavya Williams,49,46-55,Male,Bengaluru,38,6,1021.86,614.86,4,4,4,444,4.0,High Value,Champions,170.31,1844.58
+22,Mateo Taylor,41,36-45,Male,New York,49,14,1556.74,945.74,4,5,5,455,4.8,High Value,Champions,111.2,2837.33
+23,Sarah Sharma,44,36-45,Male,New York,36,15,1855.71,1131.21,4,5,5,455,4.8,High Value,Champions,123.71,3393.52
+24,Charlotte Gupta,32,26-35,Male,Mumbai,102,8,1204.89,720.39,3,4,5,345,4.3,High Value,Loyal Customers,150.61,2161.15
+25,Lucas Harris,48,46-55,Female,Hyderabad,31,15,1676.69,1034.19,4,5,5,455,4.8,High Value,Champions,111.78,3102.59
+26,Isabella Harris,42,36-45,Male,Chennai,70,4,649.96,378.96,3,3,4,334,3.5,Medium Value,Loyal Customers,162.49,1136.88
+27,David Sanchez,57,56+,Female,Singapore,30,12,797.78,511.28,4,5,4,454,4.3,High Value,Champions,66.48,1533.8
+28,Aditi Gupta,58,56+,Female,Los Angeles,51,4,513.92,313.92,4,3,3,433,3.2,Medium Value,Loyal Customers,128.48,941.76
+29,Sophia Mehta,31,26-35,Female,Bengaluru,108,7,1269.85,750.85,3,4,5,345,4.3,High Value,Loyal Customers,181.41,2252.59
+30,Ananya White,37,36-45,Other,Pune,8,8,1035.86,633.86,5,4,4,544,4.2,High Value,Champions,129.48,1901.54
+31,Arjun Thompson,59,56+,Male,Toronto,51,13,1462.77,887.77,4,5,5,455,4.8,High Value,Champions,112.52,2663.29
+32,Olivia Clark,48,46-55,Female,Los Angeles,5,12,1206.83,716.83,5,5,5,555,5.0,High Value,Champions,100.57,2150.51
+33,Camila Thomas,36,36-45,Female,Hyderabad,1,10,1452.81,868.81,5,5,5,555,5.0,High Value,Champions,145.28,2606.41
+34,Sophia Miller,24,18-25,Male,Ahmedabad,73,18,2669.74,1560.74,3,5,5,355,4.6,High Value,Loyal Customers,148.32,4682.26
+35,Emily Miller,20,18-25,Female,Delhi,86,9,938.86,557.86,3,5,4,354,4.1,High Value,Loyal Customers,104.32,1673.62
+36,Noah Iyer,56,56+,Female,Bengaluru,9,8,779.87,479.87,5,4,4,544,4.2,High Value,Champions,97.48,1439.55
+37,Takeshi Davis,32,26-35,Female,Pune,73,13,1410.85,847.35,3,5,5,355,4.6,High Value,Loyal Customers,108.53,2542.12
+38,Michael Lewis,37,36-45,Female,Toronto,17,19,2495.64,1487.64,5,5,5,555,5.0,High Value,Champions,131.35,4462.94
+39,Liam Reddy,26,26-35,Male,Toronto,8,13,1619.75,983.75,5,5,5,555,5.0,High Value,Champions,124.6,2951.34
+40,Mohammed Perez,53,46-55,Male,Hyderabad,29,16,2125.79,1244.79,4,5,5,455,4.8,High Value,Champions,132.86,3734.32
+41,Priya Moore,46,46-55,Female,Hyderabad,65,12,2009.79,1181.79,3,5,5,355,4.6,High Value,Loyal Customers,167.48,3545.32
+42,Sophia Jones,29,26-35,Male,Toronto,33,13,792.82,495.82,4,5,4,454,4.3,High Value,Champions,60.99,1487.55
+43,Emma Martinez,37,36-45,Female,Bengaluru,48,15,1786.8,1053.3,4,5,5,455,4.8,High Value,Champions,119.12,3159.9
+44,Carlos Ramirez,26,26-35,Female,Mumbai,14,18,2598.64,1547.14,5,5,5,555,5.0,High Value,Champions,144.37,4641.46
+45,Ananya Davis,29,26-35,Female,Kolkata,44,13,1075.77,671.27,4,5,5,455,4.8,High Value,Champions,82.75,2013.77
+46,Camila Mehta,28,26-35,Male,London,63,8,663.89,393.89,3,4,4,344,3.8,High Value,Loyal Customers,82.99,1181.72
+47,Lucas Perez,32,26-35,Female,Singapore,4,16,1478.8,877.8,5,5,5,555,5.0,High Value,Champions,92.42,2633.26
+48,Kavya Jones,32,26-35,Other,Delhi,55,16,3033.64,1788.64,4,5,5,455,4.8,High Value,Champions,189.6,5365.85
+49,Alexander Mehta,24,18-25,Male,Chennai,9,15,945.82,587.82,5,5,4,554,4.5,High Value,Champions,63.05,1763.33
+50,Priya Harris,25,18-25,Male,Bengaluru,6,13,2700.74,1577.24,5,5,5,555,5.0,High Value,Champions,207.75,4731.74
+51,Sophia Moore,27,26-35,Female,Ahmedabad,8,13,1385.81,818.81,5,5,5,555,5.0,High Value,Champions,106.6,2456.41
+52,Emily Walker,23,18-25,Male,Chicago,6,15,1737.67,1069.17,5,5,5,555,5.0,High Value,Champions,115.84,3207.38
+53,Lucas Garcia,44,36-45,Male,New York,64,12,614.89,382.89,3,5,4,354,4.1,High Value,Loyal Customers,51.24,1148.65
+54,Camila Smith,44,36-45,Male,Chicago,85,8,702.88,428.38,3,4,4,344,3.8,High Value,Loyal Customers,87.86,1285.14
+55,Vikram Sharma,37,36-45,Other,Hyderabad,26,15,2118.77,1259.27,4,5,5,455,4.8,High Value,Champions,141.25,3777.77
+56,Vikram Clark,30,26-35,Male,San Francisco,17,12,1711.76,1031.76,5,5,5,555,5.0,High Value,Champions,142.65,3095.35
+57,Vikram Davis,34,26-35,Male,Los Angeles,62,8,907.84,560.84,3,4,4,344,3.8,High Value,Loyal Customers,113.48,1682.52
+58,Pooja Sanchez,20,18-25,Female,Los Angeles,10,16,1664.76,1015.76,5,5,5,555,5.0,High Value,Champions,104.05,3047.35
+59,Rahul Smith,31,26-35,Female,Pune,91,10,1520.83,888.83,3,5,5,355,4.6,High Value,Loyal Customers,152.08,2666.44
+60,Mia Hernandez,42,36-45,Female,Kolkata,7,10,950.79,578.79,5,5,4,554,4.5,High Value,Champions,95.08,1736.39
+61,Lucas Harris,38,36-45,Female,Delhi,7,10,1183.81,713.81,5,5,5,555,5.0,High Value,Champions,118.38,2141.41
+62,Ananya Martin,51,46-55,Male,Chicago,12,12,1508.85,888.85,5,5,5,555,5.0,High Value,Champions,125.74,2666.6
+63,Arjun Rodriguez,28,26-35,Male,Toronto,20,17,1911.6,1211.6,5,5,5,555,5.0,High Value,Champions,112.45,3634.9
+64,Sarah Sharma,27,26-35,Female,Pune,32,12,1025.78,643.28,4,5,4,454,4.3,High Value,Champions,85.48,1929.8
+65,David Patel,51,46-55,Female,Pune,45,18,1761.74,1086.24,4,5,5,455,4.8,High Value,Champions,97.87,3258.57
+66,Fatima Smith,23,18-25,Male,Delhi,3,9,932.87,553.37,5,5,4,554,4.5,High Value,Champions,103.65,1660.07
+67,Daniel Garcia,44,36-45,Female,San Francisco,68,8,844.85,514.85,3,4,4,344,3.8,High Value,Loyal Customers,105.61,1544.6
+68,Sarah Jackson,62,56+,Female,Ahmedabad,46,13,1076.79,665.29,4,5,5,455,4.8,High Value,Champions,82.83,1995.87
+69,James Brown,54,46-55,Male,Chicago,62,14,2008.75,1195.75,3,5,5,355,4.6,High Value,Loyal Customers,143.48,3587.2
+70,Mohammed Davis,31,26-35,Female,Hyderabad,3,13,2113.83,1212.83,5,5,5,555,5.0,High Value,Champions,162.6,3638.44
+71,Mateo Patel,53,46-55,Male,Sydney,6,11,1125.84,669.84,5,5,5,555,5.0,High Value,Champions,102.35,2009.54
+72,Daniel Lopez,51,46-55,Female,Ahmedabad,11,8,954.85,595.85,5,4,4,544,4.2,High Value,Champions,119.36,1787.61
+73,Aditi Jones,35,26-35,Male,Bengaluru,15,10,884.9,541.9,5,5,4,554,4.5,High Value,Champions,88.49,1625.7
+74,Mia Anderson,43,36-45,Male,Chicago,26,17,1708.67,1065.67,4,5,5,455,4.8,High Value,Champions,100.51,3197.01
+75,Aditi Gupta,54,46-55,Male,New York,67,10,1416.78,854.78,3,5,5,355,4.6,High Value,Loyal Customers,141.68,2564.38
+76,Rohan Reddy,41,36-45,Male,Chicago,132,6,235.92,155.92,2,4,2,242,2.6,Medium Value,At Risk,39.32,467.76
+77,Fatima Walker,64,56+,Male,Kolkata,214,4,596.92,359.92,1,3,4,134,3.1,Medium Value,At Risk,149.23,1079.76
+78,Lucas Patel,46,46-55,Male,Kolkata,144,3,183.95,114.95,2,2,2,222,2.0,Low Value,Hibernating / Lost,61.32,344.87
+79,Amelia Martin,25,18-25,Female,Chicago,403,1,79.99,47.99,1,1,1,111,1.0,Low Value,Hibernating / Lost,79.99,143.97
+80,Pooja Gonzalez,44,36-45,Male,Los Angeles,156,3,179.96,108.96,2,2,2,222,2.0,Low Value,Hibernating / Lost,59.99,326.9
+81,Takeshi Lopez,44,36-45,Male,Los Angeles,107,5,608.93,353.93,3,4,4,344,3.8,High Value,Loyal Customers,121.79,1061.82
+82,Sarah Smith,29,26-35,Female,London,265,1,89.97,59.97,1,1,1,111,1.0,Low Value,Hibernating / Lost,89.97,179.91
+83,Emma Young,40,36-45,Male,Mumbai,30,2,164.98,102.98,4,1,2,412,2.1,Low Value,Recent Shoppers,82.49,308.94
+84,Isabella Hernandez,30,26-35,Female,Chicago,42,2,379.99,218.99,4,1,3,413,2.6,Medium Value,Recent Shoppers,190.0,656.99
+85,Elena Lee,36,36-45,Male,Singapore,96,3,142.95,93.45,3,2,2,322,2.2,Low Value,Potential Loyalists,47.65,280.35
+86,James Nair,32,26-35,Female,Chicago,43,6,582.88,354.38,4,4,4,444,4.0,High Value,Champions,97.15,1063.18
+87,Ananya Davis,44,36-45,Male,Kolkata,181,3,379.95,223.95,2,2,3,223,2.5,Medium Value,Potential Loyalists,126.65,671.85
+88,Kavya Verma,23,18-25,Other,Bengaluru,184,3,218.95,139.95,2,2,2,222,2.0,Low Value,Hibernating / Lost,72.98,419.83
+89,Elena Jackson,55,46-55,Female,London,151,2,159.98,102.98,2,1,2,212,1.7,Low Value,Hibernating / Lost,79.99,308.94
+90,Mei Moore,31,26-35,Female,Mumbai,29,3,187.96,120.46,4,2,2,422,2.4,Medium Value,Recent Shoppers,62.65,361.36
+91,Rahul Martin,30,26-35,Female,Sydney,20,3,169.93,109.93,5,3,2,532,2.9,Medium Value,Loyal Customers,56.64,329.77
+92,Priya Ramirez,31,26-35,Female,Sydney,41,4,659.95,408.95,4,3,4,434,3.7,Medium Value,Loyal Customers,164.99,1226.87
+93,Arjun Perez,44,36-45,Other,Chicago,85,5,365.92,228.92,3,4,3,343,3.3,Medium Value,Loyal Customers,73.18,686.72
+94,Carlos Young,50,46-55,Female,Toronto,65,6,757.84,478.84,3,4,4,344,3.8,High Value,Loyal Customers,126.31,1436.56
+95,Sarah Lee,55,46-55,Female,Singapore,30,7,537.9,324.4,4,4,3,443,3.5,Medium Value,Loyal Customers,76.84,973.16
+96,Carlos Rodriguez,47,46-55,Female,New York,163,1,19.99,13.99,2,1,1,211,1.2,Low Value,Hibernating / Lost,19.99,41.97
+97,Yuki White,42,36-45,Male,Bengaluru,92,2,54.98,34.48,3,1,1,311,1.4,Low Value,Potential Loyalists,27.49,103.44
+98,Ethan Davis,32,26-35,Male,Bengaluru,35,4,419.95,248.95,4,3,3,433,3.2,Medium Value,Loyal Customers,104.99,746.87
+99,Arjun Johnson,30,26-35,Female,Kolkata,24,5,749.91,439.91,4,4,4,444,4.0,High Value,Champions,149.98,1319.71
+100,Vikram Jackson,35,26-35,Female,Toronto,35,3,519.94,303.94,4,3,3,433,3.2,Medium Value,Loyal Customers,173.31,911.8
+101,Priya Garcia,51,46-55,Male,Mumbai,111,4,204.94,131.94,2,3,2,232,2.3,Low Value,At Risk,51.24,395.86
+102,Michael Taylor,37,36-45,Female,Los Angeles,358,1,29.99,18.99,1,1,1,111,1.0,Low Value,Hibernating / Lost,29.99,56.97
+103,Mateo Jackson,39,36-45,Female,Ahmedabad,134,3,156.95,102.95,2,3,2,232,2.3,Low Value,At Risk,52.32,308.87
+104,Mei Miller,32,26-35,Female,London,204,2,199.96,123.96,1,1,2,112,1.5,Low Value,Hibernating / Lost,99.98,371.88
+105,Charlotte Moore,46,46-55,Female,Pune,125,3,1019.94,585.94,2,3,4,234,3.3,Medium Value,At Risk,339.98,1757.82
+106,Pooja Clark,22,18-25,Male,Mumbai,100,5,538.9,330.4,3,4,3,343,3.3,Medium Value,Loyal Customers,107.78,991.2
+107,Ananya Martin,27,26-35,Male,Delhi,244,1,69.99,47.99,1,1,1,111,1.0,Low Value,Hibernating / Lost,69.99,143.97
+108,Lucas Taylor,33,26-35,Male,Chicago,149,1,39.99,24.99,2,1,1,211,1.2,Low Value,Hibernating / Lost,39.99,74.97
+109,Mateo Martinez,47,46-55,Female,New York,221,5,939.89,546.39,1,4,4,144,3.4,Medium Value,At Risk,187.98,1639.19
+110,Ananya Thompson,21,18-25,Female,San Francisco,181,3,434.93,261.93,2,3,3,233,2.8,Medium Value,At Risk,144.98,785.81
+111,Noah Iyer,49,46-55,Female,Mumbai,80,3,204.94,134.94,3,3,2,332,2.5,Medium Value,Loyal Customers,68.31,404.8
+112,Sophia Jones,52,46-55,Female,Ahmedabad,16,4,293.92,190.92,5,3,3,533,3.4,Medium Value,Loyal Customers,73.48,572.76
+113,Arjun Thompson,44,36-45,Female,Kolkata,224,4,741.89,443.89,1,3,4,134,3.1,Medium Value,At Risk,185.47,1331.65
+114,Elena Rodriguez,48,46-55,Male,Hyderabad,281,2,354.94,223.94,1,1,3,113,2.0,Low Value,Potential Loyalists,177.47,671.82
+115,James Lopez,26,26-35,Male,Los Angeles,31,6,1146.9,663.9,4,4,5,445,4.5,High Value,Champions,191.15,1991.7
+116,Michael Taylor,35,26-35,Female,Bengaluru,145,1,299.99,169.99,2,1,3,213,2.2,Low Value,Potential Loyalists,299.99,509.97
+117,Emily Davis,26,26-35,Female,Hyderabad,103,4,302.9,203.4,3,3,3,333,3.0,Medium Value,Loyal Customers,75.72,610.16
+118,Michael Patel,34,26-35,Male,San Francisco,85,2,124.98,74.98,3,1,1,311,1.4,Low Value,Potential Loyalists,62.49,224.94
+119,Vikram Harris,43,36-45,Male,Toronto,19,3,325.92,207.92,5,3,3,533,3.4,Medium Value,Loyal Customers,108.64,623.76
+120,Mei Reddy,36,36-45,Male,Sydney,92,2,279.96,167.96,3,1,3,313,2.4,Medium Value,Potential Loyalists,139.98,503.88
+121,Kavya Martin,29,26-35,Female,New York,244,1,39.98,27.98,1,1,1,111,1.0,Low Value,Hibernating / Lost,39.98,83.94
+122,Pooja Clark,48,46-55,Male,New York,239,1,174.95,109.95,1,1,2,112,1.5,Low Value,Hibernating / Lost,174.95,329.85
+124,Sophia Perez,40,36-45,Female,Chicago,336,1,65.98,43.98,1,1,1,111,1.0,Low Value,Hibernating / Lost,65.98,131.94
+125,Aditi White,52,46-55,Male,Kolkata,47,5,1750.91,999.91,4,4,5,445,4.5,High Value,Champions,350.18,2999.71
+126,Daniel Rodriguez,33,26-35,Female,New York,14,5,1041.89,601.89,5,4,5,545,4.7,High Value,Champions,208.38,1805.69
+127,Sarah Sharma,39,36-45,Male,Ahmedabad,115,5,809.95,473.45,2,4,4,244,3.6,Medium Value,At Risk,161.99,1420.35
+128,Mohammed White,40,36-45,Male,Singapore,118,3,278.94,171.44,2,3,3,233,2.8,Medium Value,At Risk,92.98,514.32
+129,Mei Lee,49,46-55,Male,Ahmedabad,36,6,636.92,374.42,4,4,4,444,4.0,High Value,Champions,106.15,1123.22
+131,Sarah Sanchez,33,26-35,Other,Chicago,399,1,29.99,19.99,1,1,1,111,1.0,Low Value,Hibernating / Lost,29.99,59.97
+132,Daniel Perez,32,26-35,Male,Hyderabad,10,3,220.95,140.95,5,3,2,532,2.9,Medium Value,Loyal Customers,73.65,422.85
+133,Liam Gonzalez,27,26-35,Female,Chennai,263,1,239.97,146.97,1,1,2,112,1.5,Low Value,Hibernating / Lost,239.97,440.91
+135,Rahul Jones,32,26-35,Male,Los Angeles,137,2,115.96,76.96,2,1,1,211,1.2,Low Value,Hibernating / Lost,57.98,230.88
+136,Aarav Clark,27,26-35,Male,Delhi,155,2,169.95,111.95,2,1,2,212,1.7,Low Value,Hibernating / Lost,84.98,335.87
+137,Sarah Hernandez,45,36-45,Male,Singapore,90,1,89.98,53.98,3,1,1,311,1.4,Low Value,Potential Loyalists,89.98,161.94
+138,Rahul Sharma,40,36-45,Male,Sydney,247,1,24.99,16.99,1,1,1,111,1.0,Low Value,Hibernating / Lost,24.99,50.97
+139,Charlotte Brown,61,56+,Male,Singapore,160,2,99.97,65.97,2,1,1,211,1.2,Low Value,Hibernating / Lost,49.98,197.89
+140,Sneha Iyer,35,26-35,Male,Delhi,422,1,299.99,169.99,1,1,3,113,2.0,Low Value,Potential Loyalists,299.99,509.97
+141,Kavya Johnson,50,46-55,Female,Bengaluru,35,1,119.99,67.99,4,1,1,411,1.6,Low Value,Recent Shoppers,119.99,203.97
+144,Isabella Lewis,42,36-45,Female,Hyderabad,9,5,303.92,192.42,5,4,3,543,3.7,Medium Value,Loyal Customers,60.78,577.22
+145,Olivia Garcia,31,26-35,Male,Ahmedabad,440,1,69.99,47.99,1,1,1,111,1.0,Low Value,Hibernating / Lost,69.99,143.97
+146,Emma Ramirez,25,18-25,Male,Sydney,115,3,269.95,167.95,2,3,2,232,2.3,Low Value,At Risk,89.98,503.83
+147,Rajesh Thompson,32,26-35,Male,Los Angeles,69,4,522.94,307.44,3,3,3,333,3.0,Medium Value,Loyal Customers,130.74,922.36
+148,Elena Iyer,45,36-45,Female,Kolkata,51,2,1059.95,605.95,4,2,5,425,3.9,High Value,Recent Shoppers,529.98,1817.87
+149,Fatima Gupta,40,36-45,Female,New York,178,4,379.93,228.93,2,3,3,233,2.8,Medium Value,At Risk,94.98,686.77
+150,Kavya Iyer,24,18-25,Female,Los Angeles,47,3,139.96,95.96,4,3,1,431,2.2,Low Value,Loyal Customers,46.65,287.86
+151,Carlos Gupta,37,36-45,Male,London,50,4,374.94,227.94,4,3,3,433,3.2,Medium Value,Loyal Customers,93.74,683.86
+152,Mia Harris,39,36-45,Male,Delhi,166,5,401.9,253.9,2,4,3,243,3.1,Medium Value,At Risk,80.38,761.7
+153,Fatima Gonzalez,42,36-45,Male,Ahmedabad,280,3,569.92,343.92,1,3,4,134,3.1,Medium Value,At Risk,189.97,1031.74
+154,Michael Robinson,60,56+,Other,New York,287,1,24.99,16.99,1,1,1,111,1.0,Low Value,Hibernating / Lost,24.99,50.97
+155,Michael Patel,48,46-55,Male,Sydney,116,4,172.93,116.93,2,3,2,232,2.3,Low Value,At Risk,43.23,350.77
+156,Mia Brown,67,56+,Male,Singapore,316,2,109.98,65.98,1,2,1,121,1.3,Low Value,Hibernating / Lost,54.99,197.94
+157,Ananya Thompson,34,26-35,Male,Hyderabad,27,6,982.9,565.4,4,4,4,444,4.0,High Value,Champions,163.82,1696.23
+158,James Wilson,35,26-35,Female,London,156,6,461.92,281.92,2,4,3,243,3.1,Medium Value,At Risk,76.99,845.8
+159,Sarah Patel,37,36-45,Male,Chicago,132,2,274.98,156.98,2,2,2,222,2.0,Low Value,Hibernating / Lost,137.49,470.94
+160,Sneha Moore,53,46-55,Female,Mumbai,268,4,994.94,569.94,1,3,4,134,3.1,Medium Value,At Risk,248.74,1709.85
+161,David Perez,35,26-35,Male,San Francisco,264,1,299.98,169.98,1,1,3,113,2.0,Low Value,Potential Loyalists,299.98,509.94
+162,Pooja White,42,36-45,Female,Kolkata,356,1,19.99,13.99,1,1,1,111,1.0,Low Value,Hibernating / Lost,19.99,41.97
+163,Mia Ramirez,27,26-35,Male,Singapore,152,1,183.96,111.96,2,1,2,212,1.7,Low Value,Hibernating / Lost,183.96,335.88
+164,Sneha Verma,62,56+,Female,Ahmedabad,126,2,89.97,59.97,2,2,1,221,1.5,Low Value,Hibernating / Lost,44.98,179.89
+165,James Lopez,40,36-45,Female,Bengaluru,11,2,124.97,80.97,5,2,1,521,2.1,Low Value,Recent Shoppers,62.48,242.89
+166,Noah Gupta,37,36-45,Male,Pune,168,1,71.98,45.98,2,1,1,211,1.2,Low Value,Hibernating / Lost,71.98,137.94
+167,Mei Hernandez,38,36-45,Male,Singapore,142,1,69.99,47.99,2,1,1,211,1.2,Low Value,Hibernating / Lost,69.99,143.97
+168,Chen Davis,37,36-45,Male,Kolkata,19,2,42.98,29.48,5,2,1,521,2.1,Low Value,Recent Shoppers,21.49,88.44
+169,Rajesh Harris,47,46-55,Male,Bengaluru,112,2,329.98,188.98,2,2,3,223,2.5,Medium Value,Potential Loyalists,164.99,566.94
+170,Mia Jackson,33,26-35,Female,New York,148,2,239.97,146.97,2,2,2,222,2.0,Low Value,Hibernating / Lost,119.98,440.89
+172,Kavya Lee,39,36-45,Male,London,101,1,89.97,56.97,3,1,1,311,1.4,Low Value,Potential Loyalists,89.97,170.91
+173,Elena Gonzalez,53,46-55,Other,Ahmedabad,180,1,34.99,22.99,2,1,1,211,1.2,Low Value,Hibernating / Lost,34.99,68.97
+174,Michael Taylor,31,26-35,Female,Delhi,439,1,24.99,16.99,1,1,1,111,1.0,Low Value,Hibernating / Lost,24.99,50.97
+175,Alexander Thompson,45,36-45,Female,London,106,2,769.93,446.93,3,2,4,324,3.2,Medium Value,Potential Loyalists,384.96,1340.77
+176,Kavya White,61,56+,Male,Chicago,73,2,289.97,167.97,3,2,3,323,2.7,Medium Value,Potential Loyalists,144.99,503.93
+177,Rahul Lee,26,26-35,Female,Mumbai,75,1,134.97,80.97,3,1,1,311,1.4,Low Value,Potential Loyalists,134.97,242.91
+179,Chen Rodriguez,33,26-35,Female,Bengaluru,58,5,572.91,353.91,3,4,4,344,3.8,High Value,Loyal Customers,114.58,1061.71
+180,Charlotte Clark,34,26-35,Male,Singapore,356,2,64.98,41.98,1,2,1,121,1.3,Low Value,Hibernating / Lost,32.49,125.94
+181,David Patel,42,36-45,Male,Los Angeles,20,8,1003.85,611.85,5,4,4,544,4.2,High Value,Champions,125.48,1835.53
+182,Noah Nair,36,36-45,Male,Hyderabad,104,5,849.93,490.93,3,4,4,344,3.8,High Value,Loyal Customers,169.99,1472.82
+183,Carlos Williams,45,36-45,Female,Delhi,243,2,181.95,119.95,1,2,2,122,1.8,Low Value,Hibernating / Lost,90.98,359.87
+184,Alexander Mehta,32,26-35,Male,Pune,60,3,409.95,243.45,3,3,3,333,3.0,Medium Value,Loyal Customers,136.65,730.35
+185,Sophia Sanchez,35,26-35,Female,Chennai,364,1,39.99,24.99,1,1,1,111,1.0,Low Value,Hibernating / Lost,39.99,74.97
+186,James Brown,25,18-25,Female,Ahmedabad,9,3,149.98,93.98,5,3,2,532,2.9,Medium Value,Loyal Customers,49.99,281.92
+188,Elena Rodriguez,44,36-45,Female,Sydney,121,3,209.97,123.97,2,3,2,232,2.3,Low Value,At Risk,69.99,371.91
+189,Ethan Clark,28,26-35,Male,San Francisco,40,3,159.95,102.95,4,3,2,432,2.7,Medium Value,Loyal Customers,53.32,308.87
+190,Emily Lopez,43,36-45,Male,New York,396,1,379.98,209.98,1,1,3,113,2.0,Low Value,Potential Loyalists,379.98,629.94
+191,Elena Lopez,30,26-35,Male,Singapore,81,4,311.9,198.4,3,3,3,333,3.0,Medium Value,Loyal Customers,77.97,595.16
+192,Rahul Davis,35,26-35,Male,Los Angeles,44,5,395.91,248.41,4,4,3,443,3.5,Medium Value,Loyal Customers,79.18,745.21
+193,Ethan Verma,63,56+,Female,New York,17,4,624.96,356.96,5,3,4,534,3.9,High Value,Loyal Customers,156.24,1070.88
+194,Aarav Lewis,53,46-55,Female,Delhi,249,2,484.93,296.93,1,2,3,123,2.3,Low Value,Potential Loyalists,242.46,890.77
+195,Rajesh White,51,46-55,Female,Ahmedabad,105,2,159.98,92.98,3,2,2,322,2.2,Low Value,Potential Loyalists,79.99,278.94
+197,Arjun Reddy,56,56+,Female,Los Angeles,124,5,467.88,298.88,2,4,3,243,3.1,Medium Value,At Risk,93.58,896.68
+198,Carlos Patel,41,36-45,Female,Bengaluru,309,2,179.96,123.96,1,2,2,122,1.8,Low Value,Hibernating / Lost,89.98,371.88
+199,Ethan Gonzalez,47,46-55,Male,Pune,254,2,54.98,36.98,1,2,1,121,1.3,Low Value,Hibernating / Lost,27.49,110.94
+200,David Thomas,39,36-45,Female,Chennai,126,1,19.99,13.99,2,1,1,211,1.2,Low Value,Hibernating / Lost,19.99,41.97
+201,Lucas Thompson,61,56+,Male,Chicago,2,4,527.91,314.91,5,3,3,533,3.4,Medium Value,Loyal Customers,131.98,944.75
+202,Sneha Perez,61,56+,Male,Ahmedabad,119,4,413.97,252.97,2,3,3,233,2.8,Medium Value,At Risk,103.49,758.89
+203,Camila Ramirez,34,26-35,Female,Mumbai,169,3,1604.91,920.91,2,3,5,235,3.8,High Value,At Risk,534.97,2762.73
+204,Lucas Clark,27,26-35,Male,New York,119,3,334.93,202.93,2,3,3,233,2.8,Medium Value,At Risk,111.64,608.77
+205,Emily Taylor,51,46-55,Female,Hyderabad,4,2,297.95,183.95,5,2,3,523,3.1,Medium Value,Recent Shoppers,148.98,551.87
+206,Noah Thompson,22,18-25,Female,Chicago,105,4,153.95,100.95,3,3,2,332,2.5,Medium Value,Loyal Customers,38.49,302.87
+207,Pooja Miller,43,36-45,Female,Sydney,143,3,154.97,97.97,2,3,2,232,2.3,Low Value,At Risk,51.66,293.93
+208,Isabella Jackson,27,26-35,Male,Delhi,30,2,279.96,161.96,4,2,3,423,2.9,Medium Value,Recent Shoppers,139.98,485.88
+209,Isabella White,27,26-35,Male,Pune,11,8,924.86,550.36,5,4,4,544,4.2,High Value,Champions,115.61,1651.12
+210,Mateo Perez,34,26-35,Female,Toronto,233,2,90.98,54.98,1,2,1,121,1.3,Low Value,Hibernating / Lost,45.49,164.94
+212,Pooja Jackson,59,56+,Male,San Francisco,245,2,139.98,81.98,1,2,2,122,1.8,Low Value,Hibernating / Lost,69.99,245.94
+213,Olivia Lee,36,36-45,Male,San Francisco,40,2,429.95,252.95,4,2,3,423,2.9,Medium Value,Recent Shoppers,214.98,758.87
+214,Rahul Thomas,39,36-45,Other,San Francisco,53,3,201.95,123.95,4,3,2,432,2.7,Medium Value,Loyal Customers,67.32,371.87
+215,Priya Moore,32,26-35,Other,Sydney,272,2,499.96,281.96,1,2,3,123,2.3,Low Value,Potential Loyalists,249.98,845.88
+216,Ananya Garcia,43,36-45,Female,Mumbai,384,2,238.97,140.97,1,2,2,122,1.8,Low Value,Hibernating / Lost,119.48,422.89
+217,Priya Wilson,31,26-35,Male,Kolkata,377,2,169.98,103.98,1,2,2,122,1.8,Low Value,Hibernating / Lost,84.99,311.94
+219,Charlotte Johnson,49,46-55,Female,New York,247,2,110.97,71.97,1,2,1,121,1.3,Low Value,Hibernating / Lost,55.48,215.89
+220,Kavya Smith,39,36-45,Female,Hyderabad,254,1,119.99,69.99,1,1,1,111,1.0,Low Value,Hibernating / Lost,119.99,209.97
+221,Aditi Smith,21,18-25,Female,Ahmedabad,18,2,124.98,82.98,5,2,1,521,2.1,Low Value,Recent Shoppers,62.49,248.94
+222,Emily Gonzalez,21,18-25,Male,Pune,62,1,68.97,46.47,3,1,1,311,1.4,Low Value,Potential Loyalists,68.97,139.41
+223,Mohammed Sanchez,27,26-35,Male,Sydney,195,3,219.96,133.96,2,3,2,232,2.3,Low Value,At Risk,73.32,401.88
+224,Amelia Harris,41,36-45,Male,Ahmedabad,135,2,391.96,225.96,2,2,3,223,2.5,Medium Value,Potential Loyalists,195.98,677.88
+225,Pooja Patel,46,46-55,Female,Los Angeles,39,3,373.96,216.96,4,3,3,433,3.2,Medium Value,Loyal Customers,124.65,650.86
+228,Ananya Gonzalez,42,36-45,Male,New York,2,1,29.99,19.99,5,1,1,511,1.8,Low Value,Recent Shoppers,29.99,59.97
+230,Elena Harris,42,36-45,Male,Hyderabad,130,2,314.95,190.95,2,2,3,223,2.5,Medium Value,Potential Loyalists,157.48,572.87
+231,Sarah Garcia,36,36-45,Female,Toronto,151,1,71.98,45.98,2,1,1,211,1.2,Low Value,Hibernating / Lost,71.98,137.94
+232,Charlotte Perez,35,26-35,Female,Chicago,6,2,989.96,561.96,5,2,4,524,3.6,Medium Value,Recent Shoppers,494.98,1685.88
+233,Fatima Gonzalez,44,36-45,Male,Pune,4,8,1068.87,628.37,5,4,5,545,4.7,High Value,Champions,133.61,1885.13
+234,Chen Iyer,26,26-35,Male,Toronto,95,4,484.96,292.96,3,3,3,333,3.0,Medium Value,Loyal Customers,121.24,878.88
+235,Rahul Thomas,50,46-55,Female,Chicago,99,5,929.88,557.88,3,4,4,344,3.8,High Value,Loyal Customers,185.98,1673.68
+236,Sneha Jackson,34,26-35,Female,Toronto,418,1,79.99,47.99,1,1,1,111,1.0,Low Value,Hibernating / Lost,79.99,143.97
+237,Priya Hernandez,41,36-45,Male,Kolkata,3,4,819.94,475.94,5,3,4,534,3.9,High Value,Loyal Customers,204.98,1427.79
+239,Sneha Martinez,40,36-45,Female,Mumbai,360,1,39.99,23.99,1,1,1,111,1.0,Low Value,Hibernating / Lost,39.99,71.97
+240,Rajesh Martinez,22,18-25,Male,Los Angeles,51,3,270.97,169.47,4,3,2,432,2.7,Medium Value,Loyal Customers,90.32,508.39
+241,Charlotte Anderson,20,18-25,Female,London,149,4,409.93,257.93,2,3,3,233,2.8,Medium Value,At Risk,102.48,773.77
+242,Vikram Johnson,47,46-55,Other,Bengaluru,101,2,214.99,124.99,3,2,2,322,2.2,Low Value,Potential Loyalists,107.5,374.99
+243,Yuki Garcia,34,26-35,Male,Chennai,262,2,359.98,205.98,1,2,3,123,2.3,Low Value,Potential Loyalists,179.99,617.94
+244,Amelia Lopez,46,46-55,Female,Bengaluru,97,4,862.93,495.93,3,3,4,334,3.5,Medium Value,Loyal Customers,215.73,1487.77
+245,Priya Johnson,28,26-35,Female,Bengaluru,163,2,189.98,115.98,2,2,2,222,2.0,Low Value,Hibernating / Lost,94.99,347.94
+246,Mia Lee,44,36-45,Female,Sydney,84,4,193.96,119.96,3,3,2,332,2.5,Medium Value,Loyal Customers,48.49,359.88
+247,Mohammed Martinez,30,26-35,Female,San Francisco,27,5,885.94,508.94,4,4,4,444,4.0,High Value,Champions,177.19,1526.84
+249,Yuki Lopez,23,18-25,Male,Delhi,69,3,297.97,172.47,3,3,3,333,3.0,Medium Value,Loyal Customers,99.32,517.39
+250,Aarav Garcia,32,26-35,Male,Pune,136,2,209.98,121.98,2,2,2,222,2.0,Low Value,Hibernating / Lost,104.99,365.94
+251,Lucas Hernandez,33,26-35,Male,Toronto,248,2,74.98,48.98,1,2,1,121,1.3,Low Value,Hibernating / Lost,37.49,146.94
+252,Emma Smith,35,26-35,Female,San Francisco,124,5,531.91,317.91,2,4,3,243,3.1,Medium Value,At Risk,106.38,953.71
+253,Vikram Moore,53,46-55,Male,Mumbai,4,5,354.95,222.95,5,4,3,543,3.7,Medium Value,Loyal Customers,70.99,668.85
+254,Elena Iyer,53,46-55,Female,London,151,2,264.96,155.96,2,2,2,222,2.0,Low Value,Hibernating / Lost,132.48,467.88
+255,Mohammed Hernandez,27,26-35,Male,Chicago,169,3,128.95,86.45,2,3,1,231,1.8,Low Value,At Risk,42.98,259.33
+256,James Young,37,36-45,Female,San Francisco,22,2,269.97,156.97,5,2,2,522,2.6,Medium Value,Recent Shoppers,134.99,470.93
+257,Ananya Martin,52,46-55,Male,London,169,1,69.98,45.98,2,1,1,211,1.2,Low Value,Hibernating / Lost,69.98,137.94
+258,Yuki Nair,35,26-35,Male,Chicago,22,4,579.91,355.91,5,3,4,534,3.9,High Value,Loyal Customers,144.98,1067.75
+259,Noah Wilson,49,46-55,Male,Hyderabad,284,1,95.0,57.0,1,1,1,111,1.0,Low Value,Hibernating / Lost,95.0,171.0
+260,Yuki Harris,29,26-35,Female,San Francisco,290,2,649.96,373.96,1,2,4,124,2.8,Medium Value,Potential Loyalists,324.98,1121.88
+261,Kavya Davis,26,26-35,Male,Chennai,251,1,115.96,79.96,1,1,1,111,1.0,Low Value,Hibernating / Lost,115.96,239.88
+262,Rajesh Johnson,48,46-55,Female,Chennai,134,3,235.97,138.97,2,3,2,232,2.3,Low Value,At Risk,78.66,416.93
+263,Mei Perez,47,46-55,Female,Sydney,207,2,149.97,93.97,1,2,2,122,1.8,Low Value,Hibernating / Lost,74.98,281.89
+264,Michael Young,33,26-35,Other,Chicago,106,4,152.96,101.46,3,3,2,332,2.5,Medium Value,Loyal Customers,38.24,304.38
+265,Kavya Lee,25,18-25,Male,Los Angeles,215,2,339.93,211.93,1,2,3,123,2.3,Low Value,Potential Loyalists,169.96,635.77
+266,Mia Robinson,24,18-25,Female,Los Angeles,301,1,55.98,36.98,1,1,1,111,1.0,Low Value,Hibernating / Lost,55.98,110.94
+267,Elena Lee,23,18-25,Male,Los Angeles,97,1,38.99,24.99,3,1,1,311,1.4,Low Value,Potential Loyalists,38.99,74.97
+268,Vikram Nair,42,36-45,Female,Sydney,410,1,55.98,36.98,1,1,1,111,1.0,Low Value,Hibernating / Lost,55.98,110.94
+269,Emily Ramirez,60,56+,Female,Delhi,64,4,479.95,279.95,3,3,3,333,3.0,Medium Value,Loyal Customers,119.99,839.87
+270,Carlos Lewis,43,36-45,Male,Singapore,161,2,202.96,126.46,2,2,2,222,2.0,Low Value,Hibernating / Lost,101.48,379.38
+271,Takeshi Johnson,60,56+,Male,Chicago,441,1,249.99,139.99,1,1,2,112,1.5,Low Value,Hibernating / Lost,249.99,419.97
+272,Ananya Harris,43,36-45,Male,Sydney,73,4,266.94,169.94,3,4,2,342,2.8,Medium Value,Loyal Customers,66.74,509.86
+273,Carlos Sanchez,39,36-45,Male,San Francisco,167,2,169.97,101.97,2,2,2,222,2.0,Low Value,Hibernating / Lost,84.98,305.89
+274,Ethan Taylor,35,26-35,Male,Delhi,173,3,449.96,268.96,2,3,3,233,2.8,Medium Value,At Risk,149.99,806.9
+275,Charlotte Iyer,33,26-35,Female,London,133,4,606.95,346.45,2,4,4,244,3.6,Medium Value,At Risk,151.74,1039.37
+276,Ethan Rodriguez,46,46-55,Female,Pune,44,4,539.88,342.88,4,4,3,443,3.5,Medium Value,Loyal Customers,134.97,1028.64
+277,Charlotte Nair,41,36-45,Male,San Francisco,6,2,674.94,380.94,5,2,4,524,3.6,Medium Value,Recent Shoppers,337.47,1142.82
+278,Isabella Moore,27,26-35,Female,Bengaluru,204,3,160.97,98.97,1,3,2,132,2.1,Low Value,At Risk,53.66,296.93
+279,Isabella Ramirez,34,26-35,Female,Pune,380,2,59.98,38.98,1,2,1,121,1.3,Low Value,Hibernating / Lost,29.99,116.94
+280,Yuki Nair,43,36-45,Male,San Francisco,15,2,185.94,122.94,5,2,2,522,2.6,Medium Value,Recent Shoppers,92.97,368.82
+281,Aditi Thomas,33,26-35,Female,Chicago,42,6,375.9,238.9,4,4,3,443,3.5,Medium Value,Loyal Customers,62.65,716.7
+282,Mei Jones,30,26-35,Male,Bengaluru,69,5,1859.87,1078.87,3,4,5,345,4.3,High Value,Loyal Customers,371.97,3236.58
+283,Ethan Reddy,38,36-45,Female,Delhi,413,2,439.97,249.97,1,2,3,123,2.3,Low Value,Potential Loyalists,219.98,749.89
+284,Charlotte Young,27,26-35,Male,Chennai,87,2,164.95,102.95,3,2,2,322,2.2,Low Value,Potential Loyalists,82.48,308.87
+285,Emma Young,50,46-55,Male,Sydney,81,3,244.96,146.96,3,3,2,332,2.5,Medium Value,Loyal Customers,81.65,440.86
+286,Rohan Jackson,34,26-35,Female,Sydney,149,1,24.99,16.99,2,1,1,211,1.2,Low Value,Hibernating / Lost,24.99,50.97
+287,Pooja Hernandez,47,46-55,Female,Ahmedabad,404,1,14.99,10.49,1,1,1,111,1.0,Low Value,Hibernating / Lost,14.99,31.47
+288,David Davis,33,26-35,Female,Singapore,273,2,259.93,169.93,1,2,2,122,1.8,Low Value,Hibernating / Lost,129.96,509.77
+289,Liam Thomas,44,36-45,Female,Sydney,47,4,723.92,425.42,4,4,4,444,4.0,High Value,Champions,180.98,1276.26
+290,Elena Hernandez,49,46-55,Female,Toronto,43,5,243.95,153.45,4,4,2,442,3.0,Medium Value,Loyal Customers,48.79,460.35
+291,James Jones,50,46-55,Male,New York,56,5,618.89,373.89,4,4,4,444,4.0,High Value,Champions,123.78,1121.69
+292,Priya Thompson,54,46-55,Female,Hyderabad,93,5,513.93,302.43,3,4,3,343,3.3,Medium Value,Loyal Customers,102.79,907.33
+293,Yuki Gupta,32,26-35,Female,New York,295,1,29.99,19.99,1,1,1,111,1.0,Low Value,Hibernating / Lost,29.99,59.97
+294,Carlos Harris,28,26-35,Male,Ahmedabad,84,3,355.93,221.93,3,3,3,333,3.0,Medium Value,Loyal Customers,118.64,665.77
+296,Takeshi Thomas,31,26-35,Other,San Francisco,92,6,457.89,280.39,3,4,3,343,3.3,Medium Value,Loyal Customers,76.32,841.23
+297,Noah Verma,33,26-35,Male,Chicago,169,2,124.97,80.97,2,2,1,221,1.5,Low Value,Hibernating / Lost,62.48,242.89
+298,Kavya Smith,23,18-25,Female,Singapore,31,2,189.97,111.97,4,2,2,422,2.4,Medium Value,Recent Shoppers,94.98,335.89
+299,Arjun Thompson,36,36-45,Male,Bengaluru,1,7,1076.89,629.89,5,4,5,545,4.7,High Value,Champions,153.84,1889.65
+300,Aditi Rodriguez,30,26-35,Male,Toronto,254,2,79.98,51.98,1,2,1,121,1.3,Low Value,Hibernating / Lost,39.99,155.94

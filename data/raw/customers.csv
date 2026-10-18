@@ -1,0 +1,301 @@
+customer_id,name,age,gender,location
+1,Sneha Verma,47.0,Male,Pune
+2,Rahul Clark,25.0,Male,Mumbai
+3,Ananya Garcia,31.0,Female,Kolkata
+4,David Jackson,30.0,Female,Mumbai
+5,James Martin,33.0,Male,Chicago
+6,Rahul Nair,34.0,Male,San Francisco
+7,Rajesh Rodriguez,50.0,Female,Hyderabad
+8,Mateo Nair,40.0,Female,San Francisco
+9,Michael Jones,45.0,Male,Ahmedabad
+10,Ethan Nair,53.0,Female,London
+11,Mia Perez,43.0,Male,San Francisco
+12,Daniel Garcia,44.0,Female,
+13,Rajesh Williams,39.0,Male,Sydney
+14,Mateo Martinez,65.0,Female,Ahmedabad
+15,Alexander Mehta,30.0,Male,Chicago
+16,Camila Martinez,24.0,Female,Chicago
+17,Olivia White,35.0,Female,Sydney
+18,Kavya Rodriguez,28.0,Female,New York
+19,Emily Martin,55.0,Male,Ahmedabad
+20,Arjun Harris,38.0,Female,Hyderabad
+21,Kavya Williams,49.0,Male,Bengaluru
+22,Mateo Taylor,41.0,Male,New York
+23,Sarah Sharma,44.0,Male,New York
+24,Charlotte Gupta,32.0,Male,Mumbai
+25,Lucas Harris,48.0,Female,Hyderabad
+26,Isabella Harris,42.0,Male,Chennai
+27,David Sanchez,57.0,Female,Singapore
+28,Aditi Gupta,58.0,Female,Los Angeles
+29,Sophia Mehta,31.0,Female,Bengaluru
+30,Ananya White,,Other,Pune
+31,Arjun Thompson,59.0,Male,Toronto
+32,Olivia Clark,48.0,Female,Los Angeles
+33,Camila Thomas,36.0,Female,Hyderabad
+34,Sophia Miller,24.0,Male,Ahmedabad
+35,Emily Miller,20.0,Female,Delhi
+36,Noah Iyer,56.0,Female,Bengaluru
+37,Takeshi Davis,32.0,Female,Pune
+38,Michael Lewis,37.0,Female,Toronto
+39,Liam Reddy,26.0,Male,Toronto
+40,Mohammed Perez,53.0,Male,Hyderabad
+41,Priya Moore,46.0,Female,Hyderabad
+42,Sophia Jones,29.0,Male,Toronto
+43,Emma Martinez,37.0,Female,Bengaluru
+44,Carlos Ramirez,26.0,Female,Mumbai
+45,Ananya Davis,29.0,Female,Kolkata
+46,Camila Mehta,28.0,Male,London
+47,Lucas Perez,32.0,Female,Singapore
+48,Kavya Jones,32.0,Other,Delhi
+49,Alexander Mehta,24.0,Male,Chennai
+50,Priya Harris,25.0,Male,Bengaluru
+51,Sophia Moore,27.0,Female,Ahmedabad
+52,Emily Walker,23.0,Male,Chicago
+53,Lucas Garcia,44.0,Male,New York
+54,Camila Smith,44.0,Male,Chicago
+55,Vikram Sharma,37.0,Other,Hyderabad
+56,Vikram Clark,30.0,Male,San Francisco
+57,Vikram Davis,34.0,Male,Los Angeles
+58,Pooja Sanchez,20.0,Female,Los Angeles
+59,Rahul Smith,31.0,Female,Pune
+60,Mia Hernandez,42.0,Female,Kolkata
+61,Lucas Harris,38.0,Female,Delhi
+62,Ananya Martin,51.0,Male,Chicago
+63,Arjun Rodriguez,28.0,Male,Toronto
+64,Sarah Sharma,27.0,Female,Pune
+65,David Patel,51.0,Female,Pune
+66,Fatima Smith,23.0,Male,Delhi
+67,Daniel Garcia,44.0,Female,San Francisco
+68,Sarah Jackson,62.0,Female,Ahmedabad
+69,James Brown,54.0,Male,Chicago
+70,Mohammed Davis,31.0,Female,Hyderabad
+71,Mateo Patel,53.0,Male,Sydney
+72,Daniel Lopez,51.0,Female,Ahmedabad
+73,Aditi Jones,35.0,Male,Bengaluru
+74,Mia Anderson,43.0,Male,Chicago
+75,Aditi Gupta,54.0,Male,New York
+76,Rohan Reddy,41.0,Male,Chicago
+77,Fatima Walker,64.0,Male,Kolkata
+78,Lucas Patel,46.0,Male,Kolkata
+79,Amelia Martin,25.0,Female,Chicago
+80,Pooja Gonzalez,44.0,Male,Los Angeles
+81,Takeshi Lopez,44.0,Male,Los Angeles
+82,Sarah Smith,29.0,Female,London
+83,Emma Young,40.0,Male,Mumbai
+84,Isabella Hernandez,30.0,Female,Chicago
+85,Elena Lee,36.0,Male,Singapore
+86,James Nair,32.0,Female,Chicago
+87,Ananya Davis,44.0,Male,Kolkata
+88,Kavya Verma,23.0,Other,Bengaluru
+89,Elena Jackson,55.0,Female,London
+90,Mei Moore,31.0,Female,Mumbai
+91,Rahul Martin,30.0,Female,Sydney
+92,Priya Ramirez,31.0,Female,Sydney
+93,Arjun Perez,44.0,Other,Chicago
+94,Carlos Young,50.0,Female,Toronto
+95,Sarah Lee,55.0,Female,Singapore
+96,Carlos Rodriguez,47.0,Female,New York
+97,Yuki White,42.0,Male,Bengaluru
+98,Ethan Davis,32.0,Male,Bengaluru
+99,Arjun Johnson,30.0,Female,Kolkata
+100,Vikram Jackson,35.0,Female,Toronto
+101,Priya Garcia,51.0,Male,Mumbai
+102,Michael Taylor,37.0,Female,Los Angeles
+103,Mateo Jackson,39.0,Female,Ahmedabad
+104,Mei Miller,32.0,Female,London
+105,Charlotte Moore,46.0,Female,Pune
+106,Pooja Clark,22.0,Male,Mumbai
+107,Ananya Martin,27.0,Male,Delhi
+108,Lucas Taylor,33.0,Male,Chicago
+109,Mateo Martinez,47.0,Female,New York
+110,Ananya Thompson,21.0,Female,San Francisco
+111,Noah Iyer,49.0,Female,Mumbai
+112,Sophia Jones,52.0,Female,Ahmedabad
+113,Arjun Thompson,44.0,Female,Kolkata
+114,Elena Rodriguez,48.0,Male,Hyderabad
+115,James Lopez,26.0,Male,Los Angeles
+116,Michael Taylor,35.0,Female,Bengaluru
+117,Emily Davis,26.0,Female,Hyderabad
+118,Michael Patel,34.0,Male,San Francisco
+119,Vikram Harris,43.0,Male,Toronto
+120,Mei Reddy,36.0,Male,Sydney
+121,Kavya Martin,29.0,Female,New York
+122,Pooja Clark,48.0,Male,New York
+123,Alexander Davis,51.0,Male,Sydney
+124,Sophia Perez,40.0,Female,Chicago
+125,Aditi White,52.0,Male,Kolkata
+126,Daniel Rodriguez,33.0,Female,New York
+127,Sarah Sharma,39.0,Male,Ahmedabad
+128,Mohammed White,40.0,Male,Singapore
+129,Mei Lee,49.0,Male,Ahmedabad
+130,Camila Davis,32.0,Female,Singapore
+131,Sarah Sanchez,33.0,Other,Chicago
+132,Daniel Perez,32.0,Male,Hyderabad
+133,Liam Gonzalez,27.0,Female,Chennai
+134,Liam Garcia,47.0,Male,Los Angeles
+135,Rahul Jones,32.0,Male,Los Angeles
+136,Aarav Clark,27.0,Male,Delhi
+137,Sarah Hernandez,45.0,Male,Singapore
+138,Rahul Sharma,40.0,Male,Sydney
+139,Charlotte Brown,61.0,Male,Singapore
+140,Sneha Iyer,35.0,Male,Delhi
+141,Kavya Johnson,50.0,Female,Bengaluru
+142,Sophia Gupta,40.0,Male,Ahmedabad
+143,Yuki Taylor,37.0,Male,Toronto
+144,Isabella Lewis,42.0,Female,Hyderabad
+145,Olivia Garcia,31.0,Male,Ahmedabad
+146,Emma Ramirez,25.0,Male,Sydney
+147,Rajesh Thompson,32.0,Male,Los Angeles
+148,Elena Iyer,45.0,Female,Kolkata
+149,Fatima Gupta,40.0,Female,New York
+150,Kavya Iyer,24.0,Female,Los Angeles
+151,Carlos Gupta,37.0,Male,London
+152,Mia Harris,39.0,Male,Delhi
+153,Fatima Gonzalez,42.0,Male,Ahmedabad
+154,Michael Robinson,60.0,Other,New York
+155,Michael Patel,48.0,Male,Sydney
+156,Mia Brown,67.0,Male,Singapore
+157,Ananya Thompson,34.0,Male,Hyderabad
+158,James Wilson,35.0,Female,London
+159,Sarah Patel,37.0,Male,Chicago
+160,Sneha Moore,53.0,Female,Mumbai
+161,David Perez,35.0,Male,San Francisco
+162,Pooja White,42.0,Female,Kolkata
+163,Mia Ramirez,27.0,Male,Singapore
+164,Sneha Verma,62.0,Female,Ahmedabad
+165,James Lopez,40.0,Female,Bengaluru
+166,Noah Gupta,37.0,Male,Pune
+167,Mei Hernandez,38.0,Male,Singapore
+168,Chen Davis,37.0,Male,Kolkata
+169,Rajesh Harris,47.0,Male,Bengaluru
+170,Mia Jackson,33.0,Female,New York
+171,Aarav Hernandez,46.0,Female,Singapore
+172,Kavya Lee,39.0,Male,London
+173,Elena Gonzalez,53.0,Other,Ahmedabad
+174,Michael Taylor,31.0,Female,Delhi
+175,Alexander Thompson,45.0,Female,London
+176,Kavya White,61.0,Male,Chicago
+177,Rahul Lee,26.0,Female,Mumbai
+178,Kavya Jackson,54.0,Other,Bengaluru
+179,Chen Rodriguez,33.0,Female,Bengaluru
+180,Charlotte Clark,34.0,Male,Singapore
+181,David Patel,42.0,Male,Los Angeles
+182,Noah Nair,36.0,Male,Hyderabad
+183,Carlos Williams,45.0,Female,Delhi
+184,Alexander Mehta,32.0,Male,Pune
+185,Sophia Sanchez,35.0,Female,Chennai
+186,James Brown,25.0,Female,Ahmedabad
+187,Mei Robinson,28.0,Male,New York
+188,Elena Rodriguez,44.0,Female,Sydney
+189,Ethan Clark,28.0,Male,San Francisco
+190,Emily Lopez,43.0,Male,New York
+191,Elena Lopez,30.0,Male,Singapore
+192,Rahul Davis,35.0,Male,Los Angeles
+193,Ethan Verma,63.0,Female,New York
+194,Aarav Lewis,53.0,Female,Delhi
+195,Rajesh White,51.0,Female,Ahmedabad
+196,Rajesh Anderson,30.0,Male,New York
+197,Arjun Reddy,56.0,Female,Los Angeles
+198,Carlos Patel,41.0,Female,Bengaluru
+199,Ethan Gonzalez,47.0,Male,Pune
+200,David Thomas,39.0,Female,Chennai
+201,Lucas Thompson,61.0,Male,Chicago
+202,Sneha Perez,61.0,Male,Ahmedabad
+203,Camila Ramirez,34.0,Female,Mumbai
+204,Lucas Clark,27.0,Male,New York
+205,Emily Taylor,51.0,Female,Hyderabad
+206,Noah Thompson,22.0,Female,Chicago
+207,Pooja Miller,43.0,Female,Sydney
+208,Isabella Jackson,27.0,Male,Delhi
+209,Isabella White,27.0,Male,Pune
+210,Mateo Perez,34.0,Female,Toronto
+211,Emily Johnson,54.0,Female,Singapore
+212,Pooja Jackson,59.0,Male,San Francisco
+213,Olivia Lee,36.0,Male,San Francisco
+214,Rahul Thomas,39.0,Other,San Francisco
+215,Priya Moore,32.0,Other,Sydney
+216,Ananya Garcia,43.0,Female,Mumbai
+217,Priya Wilson,31.0,Male,Kolkata
+218,Vikram Ramirez,30.0,Male,Ahmedabad
+219,Charlotte Johnson,49.0,Female,New York
+220,Kavya Smith,39.0,Female,Hyderabad
+221,Aditi Smith,21.0,Female,Ahmedabad
+222,Emily Gonzalez,21.0,Male,Pune
+223,Mohammed Sanchez,27.0,Male,Sydney
+224,Amelia Harris,41.0,Male,Ahmedabad
+225,Pooja Patel,46.0,Female,Los Angeles
+226,Elena Verma,24.0,Male,London
+227,Fatima Reddy,38.0,Female,Bengaluru
+228,Ananya Gonzalez,42.0,Male,New York
+229,Pooja Robinson,40.0,Male,Los Angeles
+230,Elena Harris,42.0,Male,Hyderabad
+231,Sarah Garcia,36.0,Female,Toronto
+232,Charlotte Perez,35.0,Female,Chicago
+233,Fatima Gonzalez,44.0,Male,Pune
+234,Chen Iyer,26.0,Male,Toronto
+235,Rahul Thomas,50.0,Female,Chicago
+236,Sneha Jackson,34.0,Female,Toronto
+237,Priya Hernandez,41.0,Male,Kolkata
+238,Kavya Thompson,30.0,Male,San Francisco
+239,Sneha Martinez,40.0,Female,Mumbai
+240,Rajesh Martinez,22.0,Male,Los Angeles
+241,Charlotte Anderson,20.0,Female,London
+242,Vikram Johnson,47.0,Other,Bengaluru
+243,Yuki Garcia,34.0,Male,Chennai
+244,Amelia Lopez,46.0,Female,Bengaluru
+245,Priya Johnson,28.0,Female,Bengaluru
+246,Mia Lee,44.0,Female,Sydney
+247,Mohammed Martinez,30.0,Female,San Francisco
+248,Fatima Gupta,32.0,Female,Singapore
+249,Yuki Lopez,23.0,Male,Delhi
+250,Aarav Garcia,32.0,Male,Pune
+251,Lucas Hernandez,33.0,Male,Toronto
+252,Emma Smith,35.0,Female,San Francisco
+253,Vikram Moore,53.0,Male,Mumbai
+254,Elena Iyer,53.0,Female,London
+255,Mohammed Hernandez,27.0,Male,Chicago
+256,James Young,37.0,Female,San Francisco
+257,Ananya Martin,52.0,Male,London
+258,Yuki Nair,35.0,Male,Chicago
+259,Noah Wilson,49.0,Male,Hyderabad
+260,Yuki Harris,29.0,Female,San Francisco
+261,Kavya Davis,26.0,Male,Chennai
+262,Rajesh Johnson,48.0,Female,Chennai
+263,Mei Perez,47.0,Female,Sydney
+264,Michael Young,33.0,Other,Chicago
+265,Kavya Lee,25.0,Male,Los Angeles
+266,Mia Robinson,24.0,Female,Los Angeles
+267,Elena Lee,23.0,Male,Los Angeles
+268,Vikram Nair,42.0,Female,Sydney
+269,Emily Ramirez,60.0,Female,Delhi
+270,Carlos Lewis,43.0,Male,Singapore
+271,Takeshi Johnson,60.0,Male,Chicago
+272,Ananya Harris,43.0,Male,Sydney
+273,Carlos Sanchez,39.0,Male,San Francisco
+274,Ethan Taylor,35.0,Male,Delhi
+275,Charlotte Iyer,33.0,Female,London
+276,Ethan Rodriguez,46.0,Female,Pune
+277,Charlotte Nair,41.0,Male,San Francisco
+278,Isabella Moore,27.0,Female,Bengaluru
+279,Isabella Ramirez,34.0,Female,Pune
+280,Yuki Nair,43.0,Male,San Francisco
+281,Aditi Thomas,33.0,Female,Chicago
+282,Mei Jones,30.0,Male,Bengaluru
+283,Ethan Reddy,38.0,Female,Delhi
+284,Charlotte Young,27.0,Male,Chennai
+285,Emma Young,50.0,Male,Sydney
+286,Rohan Jackson,34.0,Female,Sydney
+287,Pooja Hernandez,47.0,Female,Ahmedabad
+288,David Davis,33.0,Female,Singapore
+289,Liam Thomas,44.0,Female,Sydney
+290,Elena Hernandez,49.0,Female,Toronto
+291,James Jones,50.0,Male,New York
+292,Priya Thompson,54.0,Female,Hyderabad
+293,Yuki Gupta,32.0,Female,New York
+294,Carlos Harris,28.0,Male,Ahmedabad
+295,Carlos Anderson,58.0,Male,London
+296,Takeshi Thomas,31.0,Other,San Francisco
+297,Noah Verma,33.0,Male,Chicago
+298,Kavya Smith,23.0,Female,Singapore
+299,Arjun Thompson,36.0,Male,Bengaluru
+300,Aditi Rodriguez,30.0,Male,Toronto

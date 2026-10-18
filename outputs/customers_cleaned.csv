@@ -1,0 +1,284 @@
+customer_id,name,age,age_group,gender,location,total_orders,total_spend,total_profit,customer_segment
+1,Sneha Verma,47,46-55,Male,Pune,9,1440.79,874.29,High Value
+2,Rahul Clark,25,18-25,Male,Mumbai,7,953.88,571.88,High Value
+3,Ananya Garcia,31,26-35,Female,Kolkata,10,805.83,503.83,High Value
+4,David Jackson,30,26-35,Female,Mumbai,8,892.86,535.86,High Value
+5,James Martin,33,26-35,Male,Chicago,14,1637.74,1023.74,High Value
+6,Rahul Nair,34,26-35,Male,San Francisco,18,3565.61,2075.61,High Value
+7,Rajesh Rodriguez,50,46-55,Female,Hyderabad,15,1412.76,852.76,High Value
+8,Mateo Nair,40,36-45,Female,San Francisco,13,1775.79,1044.79,High Value
+9,Michael Jones,45,36-45,Male,Ahmedabad,11,1015.86,620.86,High Value
+10,Ethan Nair,53,46-55,Female,London,19,3314.67,1937.67,High Value
+11,Mia Perez,43,36-45,Male,San Francisco,12,990.78,624.28,High Value
+12,Daniel Garcia,44,36-45,Female,Unknown,11,1098.85,653.35,High Value
+13,Rajesh Williams,39,36-45,Male,Sydney,15,1860.71,1147.71,High Value
+14,Mateo Martinez,65,56+,Female,Ahmedabad,17,1360.74,838.24,High Value
+15,Alexander Mehta,30,26-35,Male,Chicago,9,1121.85,670.85,High Value
+16,Camila Martinez,24,18-25,Female,Chicago,10,1142.8,701.8,High Value
+17,Olivia White,35,26-35,Female,Sydney,13,1828.8,1093.8,High Value
+18,Kavya Rodriguez,28,26-35,Female,New York,9,839.88,500.88,High Value
+19,Emily Martin,55,46-55,Male,Ahmedabad,13,1945.78,1139.78,High Value
+20,Arjun Harris,38,36-45,Female,Hyderabad,9,868.83,531.83,High Value
+21,Kavya Williams,49,46-55,Male,Bengaluru,6,1021.86,614.86,High Value
+22,Mateo Taylor,41,36-45,Male,New York,14,1556.74,945.74,High Value
+23,Sarah Sharma,44,36-45,Male,New York,15,1855.71,1131.21,High Value
+24,Charlotte Gupta,32,26-35,Male,Mumbai,8,1204.89,720.39,High Value
+25,Lucas Harris,48,46-55,Female,Hyderabad,15,1676.69,1034.19,High Value
+26,Isabella Harris,42,36-45,Male,Chennai,4,649.96,378.96,Medium Value
+27,David Sanchez,57,56+,Female,Singapore,12,797.78,511.28,High Value
+28,Aditi Gupta,58,56+,Female,Los Angeles,4,513.92,313.92,Medium Value
+29,Sophia Mehta,31,26-35,Female,Bengaluru,7,1269.85,750.85,High Value
+30,Ananya White,37,36-45,Other,Pune,8,1035.86,633.86,High Value
+31,Arjun Thompson,59,56+,Male,Toronto,13,1462.77,887.77,High Value
+32,Olivia Clark,48,46-55,Female,Los Angeles,12,1206.83,716.83,High Value
+33,Camila Thomas,36,36-45,Female,Hyderabad,10,1452.81,868.81,High Value
+34,Sophia Miller,24,18-25,Male,Ahmedabad,18,2669.74,1560.74,High Value
+35,Emily Miller,20,18-25,Female,Delhi,9,938.86,557.86,High Value
+36,Noah Iyer,56,56+,Female,Bengaluru,8,779.87,479.87,High Value
+37,Takeshi Davis,32,26-35,Female,Pune,13,1410.85,847.35,High Value
+38,Michael Lewis,37,36-45,Female,Toronto,19,2495.64,1487.64,High Value
+39,Liam Reddy,26,26-35,Male,Toronto,13,1619.75,983.75,High Value
+40,Mohammed Perez,53,46-55,Male,Hyderabad,16,2125.79,1244.79,High Value
+41,Priya Moore,46,46-55,Female,Hyderabad,12,2009.79,1181.79,High Value
+42,Sophia Jones,29,26-35,Male,Toronto,13,792.82,495.82,High Value
+43,Emma Martinez,37,36-45,Female,Bengaluru,15,1786.8,1053.3,High Value
+44,Carlos Ramirez,26,26-35,Female,Mumbai,18,2598.64,1547.14,High Value
+45,Ananya Davis,29,26-35,Female,Kolkata,13,1075.77,671.27,High Value
+46,Camila Mehta,28,26-35,Male,London,8,663.89,393.89,High Value
+47,Lucas Perez,32,26-35,Female,Singapore,16,1478.8,877.8,High Value
+48,Kavya Jones,32,26-35,Other,Delhi,16,3033.64,1788.64,High Value
+49,Alexander Mehta,24,18-25,Male,Chennai,15,945.82,587.82,High Value
+50,Priya Harris,25,18-25,Male,Bengaluru,13,2700.74,1577.24,High Value
+51,Sophia Moore,27,26-35,Female,Ahmedabad,13,1385.81,818.81,High Value
+52,Emily Walker,23,18-25,Male,Chicago,15,1737.67,1069.17,High Value
+53,Lucas Garcia,44,36-45,Male,New York,12,614.89,382.89,High Value
+54,Camila Smith,44,36-45,Male,Chicago,8,702.88,428.38,High Value
+55,Vikram Sharma,37,36-45,Other,Hyderabad,15,2118.77,1259.27,High Value
+56,Vikram Clark,30,26-35,Male,San Francisco,12,1711.76,1031.76,High Value
+57,Vikram Davis,34,26-35,Male,Los Angeles,8,907.84,560.84,High Value
+58,Pooja Sanchez,20,18-25,Female,Los Angeles,16,1664.76,1015.76,High Value
+59,Rahul Smith,31,26-35,Female,Pune,10,1520.83,888.83,High Value
+60,Mia Hernandez,42,36-45,Female,Kolkata,10,950.79,578.79,High Value
+61,Lucas Harris,38,36-45,Female,Delhi,10,1183.81,713.81,High Value
+62,Ananya Martin,51,46-55,Male,Chicago,12,1508.85,888.85,High Value
+63,Arjun Rodriguez,28,26-35,Male,Toronto,17,1911.6,1211.6,High Value
+64,Sarah Sharma,27,26-35,Female,Pune,12,1025.78,643.28,High Value
+65,David Patel,51,46-55,Female,Pune,18,1761.74,1086.24,High Value
+66,Fatima Smith,23,18-25,Male,Delhi,9,932.87,553.37,High Value
+67,Daniel Garcia,44,36-45,Female,San Francisco,8,844.85,514.85,High Value
+68,Sarah Jackson,62,56+,Female,Ahmedabad,13,1076.79,665.29,High Value
+69,James Brown,54,46-55,Male,Chicago,14,2008.75,1195.75,High Value
+70,Mohammed Davis,31,26-35,Female,Hyderabad,13,2113.83,1212.83,High Value
+71,Mateo Patel,53,46-55,Male,Sydney,11,1125.84,669.84,High Value
+72,Daniel Lopez,51,46-55,Female,Ahmedabad,8,954.85,595.85,High Value
+73,Aditi Jones,35,26-35,Male,Bengaluru,10,884.9,541.9,High Value
+74,Mia Anderson,43,36-45,Male,Chicago,17,1708.67,1065.67,High Value
+75,Aditi Gupta,54,46-55,Male,New York,10,1416.78,854.78,High Value
+76,Rohan Reddy,41,36-45,Male,Chicago,6,235.92,155.92,Medium Value
+77,Fatima Walker,64,56+,Male,Kolkata,4,596.92,359.92,Medium Value
+78,Lucas Patel,46,46-55,Male,Kolkata,3,183.95,114.95,Low Value
+79,Amelia Martin,25,18-25,Female,Chicago,1,79.99,47.99,Low Value
+80,Pooja Gonzalez,44,36-45,Male,Los Angeles,3,179.96,108.96,Low Value
+81,Takeshi Lopez,44,36-45,Male,Los Angeles,5,608.93,353.93,High Value
+82,Sarah Smith,29,26-35,Female,London,1,89.97,59.97,Low Value
+83,Emma Young,40,36-45,Male,Mumbai,2,164.98,102.98,Low Value
+84,Isabella Hernandez,30,26-35,Female,Chicago,2,379.99,218.99,Medium Value
+85,Elena Lee,36,36-45,Male,Singapore,3,142.95,93.45,Low Value
+86,James Nair,32,26-35,Female,Chicago,6,582.88,354.38,High Value
+87,Ananya Davis,44,36-45,Male,Kolkata,3,379.95,223.95,Medium Value
+88,Kavya Verma,23,18-25,Other,Bengaluru,3,218.95,139.95,Low Value
+89,Elena Jackson,55,46-55,Female,London,2,159.98,102.98,Low Value
+90,Mei Moore,31,26-35,Female,Mumbai,3,187.96,120.46,Medium Value
+91,Rahul Martin,30,26-35,Female,Sydney,3,169.93,109.93,Medium Value
+92,Priya Ramirez,31,26-35,Female,Sydney,4,659.95,408.95,Medium Value
+93,Arjun Perez,44,36-45,Other,Chicago,5,365.92,228.92,Medium Value
+94,Carlos Young,50,46-55,Female,Toronto,6,757.84,478.84,High Value
+95,Sarah Lee,55,46-55,Female,Singapore,7,537.9,324.4,Medium Value
+96,Carlos Rodriguez,47,46-55,Female,New York,1,19.99,13.99,Low Value
+97,Yuki White,42,36-45,Male,Bengaluru,2,54.98,34.48,Low Value
+98,Ethan Davis,32,26-35,Male,Bengaluru,4,419.95,248.95,Medium Value
+99,Arjun Johnson,30,26-35,Female,Kolkata,5,749.91,439.91,High Value
+100,Vikram Jackson,35,26-35,Female,Toronto,3,519.94,303.94,Medium Value
+101,Priya Garcia,51,46-55,Male,Mumbai,4,204.94,131.94,Low Value
+102,Michael Taylor,37,36-45,Female,Los Angeles,1,29.99,18.99,Low Value
+103,Mateo Jackson,39,36-45,Female,Ahmedabad,3,156.95,102.95,Low Value
+104,Mei Miller,32,26-35,Female,London,2,199.96,123.96,Low Value
+105,Charlotte Moore,46,46-55,Female,Pune,3,1019.94,585.94,Medium Value
+106,Pooja Clark,22,18-25,Male,Mumbai,5,538.9,330.4,Medium Value
+107,Ananya Martin,27,26-35,Male,Delhi,1,69.99,47.99,Low Value
+108,Lucas Taylor,33,26-35,Male,Chicago,1,39.99,24.99,Low Value
+109,Mateo Martinez,47,46-55,Female,New York,5,939.89,546.39,Medium Value
+110,Ananya Thompson,21,18-25,Female,San Francisco,3,434.93,261.93,Medium Value
+111,Noah Iyer,49,46-55,Female,Mumbai,3,204.94,134.94,Medium Value
+112,Sophia Jones,52,46-55,Female,Ahmedabad,4,293.92,190.92,Medium Value
+113,Arjun Thompson,44,36-45,Female,Kolkata,4,741.89,443.89,Medium Value
+114,Elena Rodriguez,48,46-55,Male,Hyderabad,2,354.94,223.94,Low Value
+115,James Lopez,26,26-35,Male,Los Angeles,6,1146.9,663.9,High Value
+116,Michael Taylor,35,26-35,Female,Bengaluru,1,299.99,169.99,Low Value
+117,Emily Davis,26,26-35,Female,Hyderabad,4,302.9,203.4,Medium Value
+118,Michael Patel,34,26-35,Male,San Francisco,2,124.98,74.98,Low Value
+119,Vikram Harris,43,36-45,Male,Toronto,3,325.92,207.92,Medium Value
+120,Mei Reddy,36,36-45,Male,Sydney,2,279.96,167.96,Medium Value
+121,Kavya Martin,29,26-35,Female,New York,1,39.98,27.98,Low Value
+122,Pooja Clark,48,46-55,Male,New York,1,174.95,109.95,Low Value
+124,Sophia Perez,40,36-45,Female,Chicago,1,65.98,43.98,Low Value
+125,Aditi White,52,46-55,Male,Kolkata,5,1750.91,999.91,High Value
+126,Daniel Rodriguez,33,26-35,Female,New York,5,1041.89,601.89,High Value
+127,Sarah Sharma,39,36-45,Male,Ahmedabad,5,809.95,473.45,Medium Value
+128,Mohammed White,40,36-45,Male,Singapore,3,278.94,171.44,Medium Value
+129,Mei Lee,49,46-55,Male,Ahmedabad,6,636.92,374.42,High Value
+131,Sarah Sanchez,33,26-35,Other,Chicago,1,29.99,19.99,Low Value
+132,Daniel Perez,32,26-35,Male,Hyderabad,3,220.95,140.95,Medium Value
+133,Liam Gonzalez,27,26-35,Female,Chennai,1,239.97,146.97,Low Value
+135,Rahul Jones,32,26-35,Male,Los Angeles,2,115.96,76.96,Low Value
+136,Aarav Clark,27,26-35,Male,Delhi,2,169.95,111.95,Low Value
+137,Sarah Hernandez,45,36-45,Male,Singapore,1,89.98,53.98,Low Value
+138,Rahul Sharma,40,36-45,Male,Sydney,1,24.99,16.99,Low Value
+139,Charlotte Brown,61,56+,Male,Singapore,2,99.97,65.97,Low Value
+140,Sneha Iyer,35,26-35,Male,Delhi,1,299.99,169.99,Low Value
+141,Kavya Johnson,50,46-55,Female,Bengaluru,1,119.99,67.99,Low Value
+144,Isabella Lewis,42,36-45,Female,Hyderabad,5,303.92,192.42,Medium Value
+145,Olivia Garcia,31,26-35,Male,Ahmedabad,1,69.99,47.99,Low Value
+146,Emma Ramirez,25,18-25,Male,Sydney,3,269.95,167.95,Low Value
+147,Rajesh Thompson,32,26-35,Male,Los Angeles,4,522.94,307.44,Medium Value
+148,Elena Iyer,45,36-45,Female,Kolkata,2,1059.95,605.95,High Value
+149,Fatima Gupta,40,36-45,Female,New York,4,379.93,228.93,Medium Value
+150,Kavya Iyer,24,18-25,Female,Los Angeles,3,139.96,95.96,Low Value
+151,Carlos Gupta,37,36-45,Male,London,4,374.94,227.94,Medium Value
+152,Mia Harris,39,36-45,Male,Delhi,5,401.9,253.9,Medium Value
+153,Fatima Gonzalez,42,36-45,Male,Ahmedabad,3,569.92,343.92,Medium Value
+154,Michael Robinson,60,56+,Other,New York,1,24.99,16.99,Low Value
+155,Michael Patel,48,46-55,Male,Sydney,4,172.93,116.93,Low Value
+156,Mia Brown,67,56+,Male,Singapore,2,109.98,65.98,Low Value
+157,Ananya Thompson,34,26-35,Male,Hyderabad,6,982.9,565.4,High Value
+158,James Wilson,35,26-35,Female,London,6,461.92,281.92,Medium Value
+159,Sarah Patel,37,36-45,Male,Chicago,2,274.98,156.98,Low Value
+160,Sneha Moore,53,46-55,Female,Mumbai,4,994.94,569.94,Medium Value
+161,David Perez,35,26-35,Male,San Francisco,1,299.98,169.98,Low Value
+162,Pooja White,42,36-45,Female,Kolkata,1,19.99,13.99,Low Value
+163,Mia Ramirez,27,26-35,Male,Singapore,1,183.96,111.96,Low Value
+164,Sneha Verma,62,56+,Female,Ahmedabad,2,89.97,59.97,Low Value
+165,James Lopez,40,36-45,Female,Bengaluru,2,124.97,80.97,Low Value
+166,Noah Gupta,37,36-45,Male,Pune,1,71.98,45.98,Low Value
+167,Mei Hernandez,38,36-45,Male,Singapore,1,69.99,47.99,Low Value
+168,Chen Davis,37,36-45,Male,Kolkata,2,42.98,29.48,Low Value
+169,Rajesh Harris,47,46-55,Male,Bengaluru,2,329.98,188.98,Medium Value
+170,Mia Jackson,33,26-35,Female,New York,2,239.97,146.97,Low Value
+172,Kavya Lee,39,36-45,Male,London,1,89.97,56.97,Low Value
+173,Elena Gonzalez,53,46-55,Other,Ahmedabad,1,34.99,22.99,Low Value
+174,Michael Taylor,31,26-35,Female,Delhi,1,24.99,16.99,Low Value
+175,Alexander Thompson,45,36-45,Female,London,2,769.93,446.93,Medium Value
+176,Kavya White,61,56+,Male,Chicago,2,289.97,167.97,Medium Value
+177,Rahul Lee,26,26-35,Female,Mumbai,1,134.97,80.97,Low Value
+179,Chen Rodriguez,33,26-35,Female,Bengaluru,5,572.91,353.91,High Value
+180,Charlotte Clark,34,26-35,Male,Singapore,2,64.98,41.98,Low Value
+181,David Patel,42,36-45,Male,Los Angeles,8,1003.85,611.85,High Value
+182,Noah Nair,36,36-45,Male,Hyderabad,5,849.93,490.93,High Value
+183,Carlos Williams,45,36-45,Female,Delhi,2,181.95,119.95,Low Value
+184,Alexander Mehta,32,26-35,Male,Pune,3,409.95,243.45,Medium Value
+185,Sophia Sanchez,35,26-35,Female,Chennai,1,39.99,24.99,Low Value
+186,James Brown,25,18-25,Female,Ahmedabad,3,149.98,93.98,Medium Value
+188,Elena Rodriguez,44,36-45,Female,Sydney,3,209.97,123.97,Low Value
+189,Ethan Clark,28,26-35,Male,San Francisco,3,159.95,102.95,Medium Value
+190,Emily Lopez,43,36-45,Male,New York,1,379.98,209.98,Low Value
+191,Elena Lopez,30,26-35,Male,Singapore,4,311.9,198.4,Medium Value
+192,Rahul Davis,35,26-35,Male,Los Angeles,5,395.91,248.41,Medium Value
+193,Ethan Verma,63,56+,Female,New York,4,624.96,356.96,High Value
+194,Aarav Lewis,53,46-55,Female,Delhi,2,484.93,296.93,Low Value
+195,Rajesh White,51,46-55,Female,Ahmedabad,2,159.98,92.98,Low Value
+197,Arjun Reddy,56,56+,Female,Los Angeles,5,467.88,298.88,Medium Value
+198,Carlos Patel,41,36-45,Female,Bengaluru,2,179.96,123.96,Low Value
+199,Ethan Gonzalez,47,46-55,Male,Pune,2,54.98,36.98,Low Value
+200,David Thomas,39,36-45,Female,Chennai,1,19.99,13.99,Low Value
+201,Lucas Thompson,61,56+,Male,Chicago,4,527.91,314.91,Medium Value
+202,Sneha Perez,61,56+,Male,Ahmedabad,4,413.97,252.97,Medium Value
+203,Camila Ramirez,34,26-35,Female,Mumbai,3,1604.91,920.91,High Value
+204,Lucas Clark,27,26-35,Male,New York,3,334.93,202.93,Medium Value
+205,Emily Taylor,51,46-55,Female,Hyderabad,2,297.95,183.95,Medium Value
+206,Noah Thompson,22,18-25,Female,Chicago,4,153.95,100.95,Medium Value
+207,Pooja Miller,43,36-45,Female,Sydney,3,154.97,97.97,Low Value
+208,Isabella Jackson,27,26-35,Male,Delhi,2,279.96,161.96,Medium Value
+209,Isabella White,27,26-35,Male,Pune,8,924.86,550.36,High Value
+210,Mateo Perez,34,26-35,Female,Toronto,2,90.98,54.98,Low Value
+212,Pooja Jackson,59,56+,Male,San Francisco,2,139.98,81.98,Low Value
+213,Olivia Lee,36,36-45,Male,San Francisco,2,429.95,252.95,Medium Value
+214,Rahul Thomas,39,36-45,Other,San Francisco,3,201.95,123.95,Medium Value
+215,Priya Moore,32,26-35,Other,Sydney,2,499.96,281.96,Low Value
+216,Ananya Garcia,43,36-45,Female,Mumbai,2,238.97,140.97,Low Value
+217,Priya Wilson,31,26-35,Male,Kolkata,2,169.98,103.98,Low Value
+219,Charlotte Johnson,49,46-55,Female,New York,2,110.97,71.97,Low Value
+220,Kavya Smith,39,36-45,Female,Hyderabad,1,119.99,69.99,Low Value
+221,Aditi Smith,21,18-25,Female,Ahmedabad,2,124.98,82.98,Low Value
+222,Emily Gonzalez,21,18-25,Male,Pune,1,68.97,46.47,Low Value
+223,Mohammed Sanchez,27,26-35,Male,Sydney,3,219.96,133.96,Low Value
+224,Amelia Harris,41,36-45,Male,Ahmedabad,2,391.96,225.96,Medium Value
+225,Pooja Patel,46,46-55,Female,Los Angeles,3,373.96,216.96,Medium Value
+228,Ananya Gonzalez,42,36-45,Male,New York,1,29.99,19.99,Low Value
+230,Elena Harris,42,36-45,Male,Hyderabad,2,314.95,190.95,Medium Value
+231,Sarah Garcia,36,36-45,Female,Toronto,1,71.98,45.98,Low Value
+232,Charlotte Perez,35,26-35,Female,Chicago,2,989.96,561.96,Medium Value
+233,Fatima Gonzalez,44,36-45,Male,Pune,8,1068.87,628.37,High Value
+234,Chen Iyer,26,26-35,Male,Toronto,4,484.96,292.96,Medium Value
+235,Rahul Thomas,50,46-55,Female,Chicago,5,929.88,557.88,High Value
+236,Sneha Jackson,34,26-35,Female,Toronto,1,79.99,47.99,Low Value
+237,Priya Hernandez,41,36-45,Male,Kolkata,4,819.94,475.94,High Value
+239,Sneha Martinez,40,36-45,Female,Mumbai,1,39.99,23.99,Low Value
+240,Rajesh Martinez,22,18-25,Male,Los Angeles,3,270.97,169.47,Medium Value
+241,Charlotte Anderson,20,18-25,Female,London,4,409.93,257.93,Medium Value
+242,Vikram Johnson,47,46-55,Other,Bengaluru,2,214.99,124.99,Low Value
+243,Yuki Garcia,34,26-35,Male,Chennai,2,359.98,205.98,Low Value
+244,Amelia Lopez,46,46-55,Female,Bengaluru,4,862.93,495.93,Medium Value
+245,Priya Johnson,28,26-35,Female,Bengaluru,2,189.98,115.98,Low Value
+246,Mia Lee,44,36-45,Female,Sydney,4,193.96,119.96,Medium Value
+247,Mohammed Martinez,30,26-35,Female,San Francisco,5,885.94,508.94,High Value
+249,Yuki Lopez,23,18-25,Male,Delhi,3,297.97,172.47,Medium Value
+250,Aarav Garcia,32,26-35,Male,Pune,2,209.98,121.98,Low Value
+251,Lucas Hernandez,33,26-35,Male,Toronto,2,74.98,48.98,Low Value
+252,Emma Smith,35,26-35,Female,San Francisco,5,531.91,317.91,Medium Value
+253,Vikram Moore,53,46-55,Male,Mumbai,5,354.95,222.95,Medium Value
+254,Elena Iyer,53,46-55,Female,London,2,264.96,155.96,Low Value
+255,Mohammed Hernandez,27,26-35,Male,Chicago,3,128.95,86.45,Low Value
+256,James Young,37,36-45,Female,San Francisco,2,269.97,156.97,Medium Value
+257,Ananya Martin,52,46-55,Male,London,1,69.98,45.98,Low Value
+258,Yuki Nair,35,26-35,Male,Chicago,4,579.91,355.91,High Value
+259,Noah Wilson,49,46-55,Male,Hyderabad,1,95.0,57.0,Low Value
+260,Yuki Harris,29,26-35,Female,San Francisco,2,649.96,373.96,Medium Value
+261,Kavya Davis,26,26-35,Male,Chennai,1,115.96,79.96,Low Value
+262,Rajesh Johnson,48,46-55,Female,Chennai,3,235.97,138.97,Low Value
+263,Mei Perez,47,46-55,Female,Sydney,2,149.97,93.97,Low Value
+264,Michael Young,33,26-35,Other,Chicago,4,152.96,101.46,Medium Value
+265,Kavya Lee,25,18-25,Male,Los Angeles,2,339.93,211.93,Low Value
+266,Mia Robinson,24,18-25,Female,Los Angeles,1,55.98,36.98,Low Value
+267,Elena Lee,23,18-25,Male,Los Angeles,1,38.99,24.99,Low Value
+268,Vikram Nair,42,36-45,Female,Sydney,1,55.98,36.98,Low Value
+269,Emily Ramirez,60,56+,Female,Delhi,4,479.95,279.95,Medium Value
+270,Carlos Lewis,43,36-45,Male,Singapore,2,202.96,126.46,Low Value
+271,Takeshi Johnson,60,56+,Male,Chicago,1,249.99,139.99,Low Value
+272,Ananya Harris,43,36-45,Male,Sydney,4,266.94,169.94,Medium Value
+273,Carlos Sanchez,39,36-45,Male,San Francisco,2,169.97,101.97,Low Value
+274,Ethan Taylor,35,26-35,Male,Delhi,3,449.96,268.96,Medium Value
+275,Charlotte Iyer,33,26-35,Female,London,4,606.95,346.45,Medium Value
+276,Ethan Rodriguez,46,46-55,Female,Pune,4,539.88,342.88,Medium Value
+277,Charlotte Nair,41,36-45,Male,San Francisco,2,674.94,380.94,Medium Value
+278,Isabella Moore,27,26-35,Female,Bengaluru,3,160.97,98.97,Low Value
+279,Isabella Ramirez,34,26-35,Female,Pune,2,59.98,38.98,Low Value
+280,Yuki Nair,43,36-45,Male,San Francisco,2,185.94,122.94,Medium Value
+281,Aditi Thomas,33,26-35,Female,Chicago,6,375.9,238.9,Medium Value
+282,Mei Jones,30,26-35,Male,Bengaluru,5,1859.87,1078.87,High Value
+283,Ethan Reddy,38,36-45,Female,Delhi,2,439.97,249.97,Low Value
+284,Charlotte Young,27,26-35,Male,Chennai,2,164.95,102.95,Low Value
+285,Emma Young,50,46-55,Male,Sydney,3,244.96,146.96,Medium Value
+286,Rohan Jackson,34,26-35,Female,Sydney,1,24.99,16.99,Low Value
+287,Pooja Hernandez,47,46-55,Female,Ahmedabad,1,14.99,10.49,Low Value
+288,David Davis,33,26-35,Female,Singapore,2,259.93,169.93,Low Value
+289,Liam Thomas,44,36-45,Female,Sydney,4,723.92,425.42,High Value
+290,Elena Hernandez,49,46-55,Female,Toronto,5,243.95,153.45,Medium Value
+291,James Jones,50,46-55,Male,New York,5,618.89,373.89,High Value
+292,Priya Thompson,54,46-55,Female,Hyderabad,5,513.93,302.43,Medium Value
+293,Yuki Gupta,32,26-35,Female,New York,1,29.99,19.99,Low Value
+294,Carlos Harris,28,26-35,Male,Ahmedabad,3,355.93,221.93,Medium Value
+296,Takeshi Thomas,31,26-35,Other,San Francisco,6,457.89,280.39,Medium Value
+297,Noah Verma,33,26-35,Male,Chicago,2,124.97,80.97,Low Value
+298,Kavya Smith,23,18-25,Female,Singapore,2,189.97,111.97,Medium Value
+299,Arjun Thompson,36,36-45,Male,Bengaluru,7,1076.89,629.89,High Value
+300,Aditi Rodriguez,30,26-35,Male,Toronto,2,79.98,51.98,Low Value
