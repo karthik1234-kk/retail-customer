@@ -50,6 +50,7 @@ retail-customer-360/
 │   ├── customer_segments.csv       # RFM scores, personas, and CLV metrics
 │   └── monthly_trends.csv          # Aggregated month-over-month trends
 ├── dashboard/
+│   ├── report.pbix                 # Pre-built Power BI Desktop report
 │   ├── POWER_BI_GUIDE.md           # Step-by-step visual creation & modeling manual
 │   └── dax_measures.txt            # Ready-to-copy-paste DAX formulas
 └── README.md                       # Complete project documentation
